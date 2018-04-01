@@ -1,0 +1,3422 @@
+Content-Length: 1319343
+Content-Type: text/html
+NER_LOCATION: Chad Roberts
+NER_LOCATION: Newton Alex
+NER_LOCATION: Chiwan Park
+NER_LOCATION: Nixon Rodrigues
+NER_LOCATION: Igor Costa flex-pmc,
+NER_LOCATION: Ariel Shemaiah Rabkin
+NER_LOCATION: Hong Teahui
+NER_LOCATION: Youngjin Park
+NER_LOCATION: Jackson
+NER_LOCATION: Luke Shannon
+NER_LOCATION: T U V W X Y Z SVN
+NER_LOCATION: Austin Leahy
+NER_LOCATION: Chico
+NER_LOCATION: Rici Lake
+NER_LOCATION: Barrett Oglesby
+NER_LOCATION: Dave Grove
+NER_LOCATION: jing9 Jing Zhao
+NER_LOCATION: Jong-young Park
+NER_LOCATION: Dennis Dam
+NER_LOCATION: Paris Carbone
+NER_LOCATION: Hong Fang
+NER_LOCATION: Ariel Weisberg
+NER_LOCATION: Keys Botzum
+NER_LOCATION: Everett Toews
+NER_LOCATION: Jacob Rosenthal
+NER_LOCATION: Clay Leeds
+NER_LOCATION: Corey Stubbs
+NER_LOCATION: Jacob Danner
+NER_LOCATION: Jacob Barrett
+NER_LOCATION: Ray Chiang hadoop-pmc,
+NER_LOCATION: Hampton
+NER_LOCATION: Jacob Champion
+NER_LOCATION: Newton
+NER_LOCATION: Santiago
+NER_LOCATION: Logan
+NER_LOCATION: Milan
+NER_LOCATION: Mason
+NER_LOCATION: Luke Lu
+NER_LOCATION: Mars Hall
+NER_LOCATION: Ma
+NER_LOCATION: Georgia
+NER_LOCATION: Andrew Grove
+NER_LOCATION: Sydney
+NER_LOCATION: Gilbert Song
+NER_LOCATION: Luke Cwik
+NER_LOCATION: Michael Park
+NER_LOCATION: Petar Tahchiev
+NER_LOCATION: Chad Schoettger
+NER_LOCATION: Jones
+NER_LOCATION: Karthick Sankarachary
+NER_LOCATION: Timur Tleukenov
+NER_LOCATION: Slim Bouguerra
+NER_LOCATION: Gandhi Rajan
+NER_LOCATION: Jacob Lund
+NER_LOCATION: Jacob Evan Beard
+NER_LOCATION: Randall Leeds
+NER_LOCATION: Chad La Joie
+NER_LOCATION: Lima
+NER_LOCATION: Salva
+NER_LOCATION: Loic
+NER_LOCATION: Jacob Kjome
+NER_LOCATION: Mariangela Hills
+NER_LOCATION: Luke Han
+NER_LOCATION: Cheolsoo Park
+NER_LOCATION: Gary
+NER_LOCATION: Keuntae Park
+NER_LOCATION: Neil Griffin
+NER_LOCATION: Ariel Constenla-Haile
+NER_LOCATION: Jacob Wilder
+NER_LOCATION: Sutter
+NER_LOCATION: Kan Zhang
+NER_LOCATION: Sterling Hughes
+NER_LOCATION: Jim Spring
+NER_LOCATION: Neeraj Joshi
+NER_LOCATION: Darren Hague
+NER_LOCATION: Sam Park
+NER_LOCATION: Burn
+NER_LOCATION: Mukul Gandhi
+NER_LOCATION: Sang-Min Park
+NER_LOCATION: Edwards
+NER_LOCATION: Siddharth Anand
+NER_LOCATION: Jorge Bay
+NER_LOCATION: Luke Blanshard
+NER_LOCATION: David Newton
+NER_LOCATION: Sung-Gu Park
+NER_LOCATION: Hope
+NER_LOCATION: Jacob
+NER_ORGANIZATION: Fine sqoop-pmc,
+NER_ORGANIZATION: Sun Ying
+NER_ORGANIZATION: Turner Eagles
+NER_ORGANIZATION: Hughes
+NER_ORGANIZATION: ITO Ryuichi
+NER_ORGANIZATION: UTC
+NER_ORGANIZATION: Daniel Everett Jemiolo
+NER_ORGANIZATION: Dong Chen
+NER_ORGANIZATION: Bath
+NER_ORGANIZATION: Hans Knudsen
+NER_ORGANIZATION: Regis Merlino
+NER_ORGANIZATION: Catalina Wei
+NER_ORGANIZATION: Owen
+NER_ORGANIZATION: Hamilton Verissimo DeOliveira
+NER_ORGANIZATION: Name Group
+NER_ORGANIZATION: Kief Morris
+NER_ORGANIZATION: Hanson Char
+NER_ORGANIZATION: Hanson
+NER_ORGANIZATION: Adrian T. Co activemq,
+NER_ORGANIZATION: PJ Fanning
+NER_ORGANIZATION: Army
+NER_ORGANIZATION: Perry S Cheng
+NER_ORGANIZATION: Morgan James Delagrange
+NER_ORGANIZATION: Everett Toews
+NER_ORGANIZATION: allan163
+NER_ORGANIZATION: Juan Vazquez
+NER_ORGANIZATION: Salomon
+NER_ORGANIZATION: William
+NER_ORGANIZATION: TB Dinesh
+NER_ORGANIZATION: Fabian Christ incubator-pmc,
+NER_ORGANIZATION: Dana
+NER_ORGANIZATION: Allan Yang
+NER_ORGANIZATION: Douglas
+NER_ORGANIZATION: Carey
+NER_ORGANIZATION: Sun Chao
+NER_ORGANIZATION: Douglas Siqueira Leite
+NER_ORGANIZATION: Anu Engineer
+NER_ORGANIZATION: Bell
+NER_ORGANIZATION: Bogdan Ciprian Pistol
+NER_ORGANIZATION: Mar
+NER_ORGANIZATION: Abraham
+NER_ORGANIZATION: Drew
+NER_ORGANIZATION: Conrad O'Dea
+NER_ORGANIZATION: Thomas J. Frazier
+NER_ORGANIZATION: Dodge
+NER_ORGANIZATION: JSON
+NER_ORGANIZATION: Dong Uk Choi
+NER_ORGANIZATION: Nga Thien Chung
+NER_ORGANIZATION: Victor J. Orlikowski
+NER_ORGANIZATION: Victor Dogaru edgent,
+NER_ORGANIZATION: ASF
+NER_ORGANIZATION: JV Jujjuri
+NER_ORGANIZATION: Pan Jie
+NER_ORGANIZATION: Dong Li
+NER_ORGANIZATION: Walters
+NER_ORGANIZATION: McDonnell
+NER_ORGANIZATION: DB Tsai
+NER_ORGANIZATION: Wheeler
+NER_ORGANIZATION: McDonnell incubator,
+NER_ORGANIZATION: Ivy Tang
+NER_ORGANIZATION: Ryan Edward Ebanks
+NER_ORGANIZATION: Ames
+NER_ORGANIZATION: JJ Meyer
+NER_ORGANIZATION: Doug Service
+NER_ORGANIZATION: Dong Lin
+NER_ORGANIZATION: Mercy Ma
+NER_ORGANIZATION: Charan Reddy G
+NER_ORGANIZATION: Royal Jr.
+NER_ORGANIZATION: Bill Anderson
+NER_ORGANIZATION: Douglas Creager
+NER_ORGANIZATION: Si Chen
+NER_ORGANIZATION: Harley
+NER_ORGANIZATION: Burn
+NER_ORGANIZATION: Goodyear
+NER_ORGANIZATION: Avia Efrat
+NER_ORGANIZATION: White
+NER_ORGANIZATION: Busch apsite,
+NER_ORGANIZATION: Si
+NER_ORGANIZATION: Ryder
+NER_ORGANIZATION: Victor Borja |
+NER_ORGANIZATION: Dong Rui
+NER_ORGANIZATION: Pier Fumagalli
+NER_ORGANIZATION: Discovery Gerdes
+NER_ORGANIZATION: Filip Maj
+NER_PERSON: Andrew Kornev
+NER_PERSON: Kurt Miller
+NER_PERSON: Naomi Slater
+NER_PERSON: Tim Ellison
+NER_PERSON: Rich Bowen
+NER_PERSON: Simon Laws
+NER_PERSON: Adam P. Lally
+NER_PERSON: Ivan Bella
+NER_PERSON: Karl Wright
+NER_PERSON: Paul Foxworthy
+NER_PERSON: Michael
+NER_PERSON: George Dreghiciu
+NER_PERSON: Maria Dalmatova
+NER_PERSON: Frank Maximus
+NER_PERSON: Kevin Korngut
+NER_PERSON: Peter Rossbach
+NER_PERSON: Martin Entlicher
+NER_PERSON: Steve R Wagner
+NER_PERSON: Jerry Shao
+NER_PERSON: David Savage
+NER_PERSON: Anthony Corbacho
+NER_PERSON: Richard Hirsch
+NER_PERSON: Roberto Galoppini
+NER_PERSON: Kim Whitehall
+NER_PERSON: David Vittor
+NER_PERSON: Christian Lavoie
+NER_PERSON: Ray Chiang
+NER_PERSON: Matt Franklin
+NER_PERSON: H
+NER_PERSON: Peter Karman
+NER_PERSON: Walter Su
+NER_PERSON: Di Carlo
+NER_PERSON: Gary L Peskin
+NER_PERSON: Kim van der Riet
+NER_PERSON: Simon Chan
+NER_PERSON: Erwin van der Koogh
+NER_PERSON: Martin Dulisch
+NER_PERSON: S
+NER_PERSON: Daniel Warneke
+NER_PERSON: Benjamin Lerer
+NER_PERSON: Dave Chappell
+NER_PERSON: Ray Sting
+NER_PERSON: Stephen Kim
+NER_PERSON: William Glass-Husain
+NER_PERSON: Marc Spehlmann
+NER_PERSON: James Netherton
+NER_PERSON: Jeff Regan
+NER_PERSON: Raphi D Lee
+NER_PERSON: Matt Cheah
+NER_PERSON: Kent Sølvsten
+NER_PERSON: John Heitmann
+NER_PERSON: Jeff Hammerbacher
+NER_PERSON: Jessica Tomechak
+NER_PERSON: Vladimir Voskresensky
+NER_PERSON: Ryan Blue
+NER_PERSON: Jean Christophe Kautzmann
+NER_PERSON: Troy Curtis Jr subversion-pmc,
+NER_PERSON: Jesse Zhang
+NER_PERSON: Ben Hyde
+NER_PERSON: Ian Clelland
+NER_PERSON: John Hookom
+NER_PERSON: Steve Conrad
+NER_PERSON: Coty Sutherland
+NER_PERSON: Sean Sullivan
+NER_PERSON: Alan T Keane
+NER_PERSON: Morrison
+NER_PERSON: Anthony Elder
+NER_PERSON: Robert Yates
+NER_PERSON: Huijun Wu
+NER_PERSON: Sam Ruby
+NER_PERSON: Ram Sriharsha
+NER_PERSON: Andrew Wang
+NER_PERSON: Zhenhua Wang
+NER_PERSON: Jeffrey Lee Barrett
+NER_PERSON: Roger Ruttimann
+NER_PERSON: Grant Mcdonald
+NER_PERSON: Michael MacFadden
+NER_PERSON: Oliver B. Fischer incubator,
+NER_PERSON: Anthony Shaw
+NER_PERSON: Graham Turrell
+NER_PERSON: Vladimir Tkhir
+NER_PERSON: David Lotts
+NER_PERSON: Emily Jiang
+NER_PERSON: David Eric Pugh
+NER_PERSON: James Paul Gallacher
+NER_PERSON: Kenneth Tam
+NER_PERSON: Patrick Lightbody
+NER_PERSON: Diane Holt
+NER_PERSON: Michael Catanzariti
+NER_PERSON: Rob Turner
+NER_PERSON: John McNally
+NER_PERSON: Andrew McGeachie
+NER_PERSON: Keith Eric Carmichael
+NER_PERSON: David Calavera
+NER_PERSON: John S. Hope
+NER_PERSON: Gary
+NER_PERSON: Julian Hyde
+NER_PERSON: David John Legg
+NER_PERSON: John Lindal
+NER_PERSON: Ernest C Lötter
+NER_PERSON: Peter Schuller
+NER_PERSON: Jonathan Leavitt
+NER_PERSON: Taylor Wise
+NER_PERSON: Marc Andrew Davidson
+NER_PERSON: Daniel Fagerstrohm
+NER_PERSON: Sander van der Waal
+NER_PERSON: Hubert
+NER_PERSON: Tom Pappas
+NER_PERSON: Joe Stein
+NER_PERSON: Jim Donofrio
+NER_PERSON: James W. Carman
+NER_PERSON: Alex O'Ree
+NER_PERSON: Alexander Broekhuis
+NER_PERSON: Huibao Lin
+NER_PERSON: Justin Graham Bertram
+NER_PERSON: Julius Davies
+NER_PERSON: Larry Shatzer Jr subversion
+NER_PERSON: Christopher Calvin Currens
+NER_PERSON: Karan Singh Malhi
+NER_PERSON: Lin Ma incubator,
+NER_PERSON: Rohith
+NER_PERSON: Kurt David Starsinic
+NER_PERSON: Glenn Adams
+NER_PERSON: Brian Dube
+NER_PERSON: Anna Szonyi
+NER_PERSON: Ying Wang
+NER_PERSON: Bruce Snyder
+NER_PERSON: Jason Brown
+NER_PERSON: Peter Koželj
+NER_PERSON: Patrick Mayweg
+NER_PERSON: Andrea Turli
+NER_PERSON: Chris Kimpton
+NER_PERSON: Howard Carlin Rogers
+NER_PERSON: Shawn Bayern
+NER_PERSON: Jesse Yates
+NER_PERSON: Max Woghiren
+NER_PERSON: Miles Libbey
+NER_PERSON: Stein Welberg
+NER_PERSON: Tony Finch
+NER_PERSON: Sean Broeder
+NER_PERSON: Jason Robitaille
+NER_PERSON: Nicholas L. Gallardo
+NER_PERSON: Bill Dudney
+NER_PERSON: Jeff G. Butler
+NER_PERSON: Colin Stephenson
+NER_PERSON: Jonathan Maron
+NER_PERSON: Adrian Cole
+NER_PERSON: Gordon Sim
+NER_PERSON: Elias Nathan Ross
+NER_PERSON: Martin Ritchie
+NER_PERSON: Kevin Meyer
+NER_PERSON: Andy Cadel
+NER_PERSON: Carl Franklin Hall
+NER_PERSON: Greg Woolsey
+NER_PERSON: Omar Mefire
+NER_PERSON: Ibrahim Jarif
+NER_PERSON: Wang Wei
+NER_PERSON: Brian Frank Loss
+NER_PERSON: Ann M. Robinson
+NER_PERSON: Xin Wang
+NER_PERSON: Ryan Gimmy
+NER_PERSON: Paul Dick
+NER_PERSON: James Duncan Davidson
+NER_PERSON: Andrew Kyle Purtell
+NER_PERSON: Huang
+NER_PERSON: Zhendong Liu
+NER_PERSON: Ryan Pan
+NER_PERSON: Lawrence Mandel
+NER_PERSON: Michael Hermanto
+NER_PERSON: Andrew Scott Cutright
+NER_PERSON: Tim Wilkens
+NER_PERSON: A. Rodriguez
+NER_PERSON: Matt Pelletier
+NER_PERSON: Jason Daly
+NER_PERSON: Christian Haul
+NER_PERSON: Ethan Wang
+NER_PERSON: Richard Zang
+NER_PERSON: Adam J. Shook
+NER_PERSON: Thomas Chojecki
+NER_PERSON: Ted Liu
+NER_PERSON: Mark R. Diggory
+NER_PERSON: Philip Zampino
+NER_PERSON: Bill Havanki
+NER_PERSON: Brian Curtin
+NER_PERSON: Andrea Gazzarini
+NER_PERSON: Jason Bausewein
+NER_PERSON: Aaron Farr
+NER_PERSON: Karl Lehenbauer
+NER_PERSON: Christian Ohler
+NER_PERSON: Haibo Song
+NER_PERSON: Thomas Jungblut
+NER_PERSON: Dan Filimon
+NER_PERSON: Chris Chew
+NER_PERSON: Martin Illecker
+NER_PERSON: Pierre Delisle
+NER_PERSON: Ian Robinson
+NER_PERSON: Richard Cole
+NER_PERSON: Ray Gauss II
+NER_PERSON: Sam Just
+NER_PERSON: Elliott Smith
+NER_PERSON: Max Starets
+NER_PERSON: Jonathan Marsh
+NER_PERSON: Christian Lenz
+NER_PERSON: Jeff Jirsa
+NER_PERSON: Patrick Calahan
+NER_PERSON: Randall Hauch
+NER_PERSON: Laura Stewart
+NER_PERSON: Vincent Poon
+NER_PERSON: Gour K Saha
+NER_PERSON: Patrick Taylor Ramsey
+NER_PERSON: Rudy De Busscher
+NER_PERSON: William Colen
+NER_PERSON: Victor Dogaru
+NER_PERSON: Chris Bowditch
+NER_PERSON: Andre FdM
+NER_PERSON: Christine Koppelt
+NER_PERSON: Louise Mitchell
+NER_PERSON: Adrian Nistor
+NER_PERSON: Geoffrey Young
+NER_PERSON: Ernest Burghardt
+NER_PERSON: James David Berry
+NER_PERSON: Brian Hulette
+NER_PERSON: Alex Goodman
+NER_PERSON: Jonathan Turner Eagles
+NER_PERSON: Steve Lawrence
+NER_PERSON: Warren Togami Jr.
+NER_PERSON: Christian Beikov
+NER_PERSON: Peter Mahoney
+NER_PERSON: Adam Kocoloski
+NER_PERSON: Michael Nash
+NER_PERSON: Lionel Villard
+NER_PERSON: Matt Pavlovich
+NER_PERSON: Nick Allen
+NER_PERSON: Lincoln Baxter III
+NER_PERSON: Yexi Jiang
+NER_PERSON: Dan Silivestru
+NER_PERSON: David Lawrie Ward
+NER_PERSON: Sean Schofield
+NER_PERSON: Kevin Cormier
+NER_PERSON: Liu Yu
+NER_PERSON: Minho Kim
+NER_PERSON: Jinhu Wu
+NER_PERSON: Patrick H. Luby
+NER_PERSON: Peter Jones
+NER_PERSON: Louis Suarez-Potts
+NER_PERSON: Robert Resendes
+NER_PERSON: Tom Watson
+NER_PERSON: James William Dumay
+NER_PERSON: Eric N. Hanson
+NER_PERSON: Frank Zeng
+NER_PERSON: Pat Ferrel
+NER_PERSON: Noel
+NER_PERSON: Paul Angus
+NER_PERSON: Steve Raeburn
+NER_PERSON: Dan Bress
+NER_PERSON: James P. Ancona
+NER_PERSON: Stephen Chu
+NER_PERSON: Chia-Hung Lin
+NER_PERSON: Albert Bifet
+NER_PERSON: Xiping Wang
+NER_PERSON: Ann Bryant Burgess
+NER_PERSON: Anand Subramanian
+NER_PERSON: Bruce Allen Phillips
+NER_PERSON: Ben Reser
+NER_PERSON: Neil Clark
+NER_PERSON: Barbara Stortz
+NER_PERSON: Greg Cottman
+NER_PERSON: Robert Butts
+NER_PERSON: Robert Scott Comer
+NER_PERSON: Daniel Earl Poirier
+NER_PERSON: Robert Sisson
+NER_PERSON: Ryan Bridges
+NER_PERSON: Richard N. Hillegas
+NER_PERSON: Peter Hawkins
+NER_PERSON: Karen Lease
+NER_PERSON: Paul Spencer
+NER_PERSON: Matt Coarr
+NER_PERSON: Ryan Lubke
+NER_PERSON: Rob Paveza
+NER_PERSON: Daniel Fabulich
+NER_PERSON: Michael Perez
+NER_PERSON: Michael Becke
+NER_PERSON: Jonathan Hung
+NER_PERSON: Mike Thomsen
+NER_PERSON: Dennis
+NER_PERSON: Frank Greguska
+NER_PERSON: Simone Tripodi
+NER_PERSON: George Caragea
+NER_PERSON: Jiansheng Huang
+NER_PERSON: Mark J. Cox
+NER_PERSON: Cazen Lee
+NER_PERSON: Stephen Mallette
+NER_PERSON: Sidney Markowitz
+NER_PERSON: Christian Stolz
+NER_PERSON: Haosdent Huang
+NER_PERSON: Thomas Marsh
+NER_PERSON: Joy Gao
+NER_PERSON: Simon Lessard
+NER_PERSON: Felix Hieber
+NER_PERSON: Michael Bolz
+NER_PERSON: Julian Anthony Fox Gosnell
+NER_PERSON: Dennis Lundberg
+NER_PERSON: Oliver Kiessler
+NER_PERSON: Sander van der Heyden
+NER_PERSON: Matt Massie
+NER_PERSON: Matt Sicker
+NER_PERSON: Dongjin Lee
+NER_PERSON: Jason Edward Webb
+NER_PERSON: Alex Karasulu
+NER_PERSON: Carter Kozak
+NER_PERSON: Hayes
+NER_PERSON: Christian Schulte
+NER_PERSON: Oliver Becherer
+NER_PERSON: Bono Lv
+NER_PERSON: Mat Booth
+NER_PERSON: Raymond Camden
+NER_PERSON: Martin Tomes
+NER_PERSON: Franz Forsthofer
+NER_PERSON: Thomas McKiernan
+NER_PERSON: Nolan Lawson
+NER_PERSON: Thomas Huang
+NER_PERSON: David Yan
+NER_PERSON: Michele Mostarda
+NER_PERSON: Vladimir Kotikov
+NER_PERSON: Bill Slacum
+NER_PERSON: Vartika Singh
+NER_PERSON: Mike Mahoney
+NER_PERSON: David LeStrat
+NER_PERSON: Grant Smith
+NER_PERSON: Nicholas Lesiecki
+NER_PERSON: Jose L. Ruiz
+NER_PERSON: Angela Cymbalak
+NER_PERSON: Bjorn Townsend
+NER_PERSON: Dennis Reedy
+NER_PERSON: Yong
+NER_PERSON: Bruno Busco
+NER_PERSON: Bill Stoddard
+NER_PERSON: Christian van Spaandonk
+NER_PERSON: Martin Snitkovsky
+NER_PERSON: Pieter Reuse
+NER_PERSON: Dave Hirko
+NER_PERSON: Seungwon Lee
+NER_PERSON: Mark Gardner
+NER_PERSON: Ziyue Huang
+NER_PERSON: Andreas Kuckartz
+NER_PERSON: Jonathan Valliere
+NER_PERSON: Edwin Sharp
+NER_PERSON: Bobby
+NER_PERSON: Kyle Nusbaum
+NER_PERSON: Newton Alex
+NER_PERSON: Otto Fowler
+NER_PERSON: Michael Busch
+NER_PERSON: Jim Scott
+NER_PERSON: Miguel Azevedo
+NER_PERSON: Martin Balin
+NER_PERSON: Chen ZuoJun
+NER_PERSON: Timothy St. Clair
+NER_PERSON: Barrett Oglesby
+NER_PERSON: John Sichi
+NER_PERSON: Igor Bondarenko
+NER_PERSON: Jonathan Gray
+NER_PERSON: Arthur Gary Ryman
+NER_PERSON: Benjamin Venditti
+NER_PERSON: David Hearnden
+NER_PERSON: David Robson
+NER_PERSON: Joe
+NER_PERSON: Carol B. Hansen
+NER_PERSON: Mark Combellack
+NER_PERSON: Jorge Luis Betancourt Gonzalez
+NER_PERSON: Alex Ciminian
+NER_PERSON: Glenn Golden
+NER_PERSON: Helder Miguel Alves Magalhães
+NER_PERSON: John Huss
+NER_PERSON: Daniel Rall
+NER_PERSON: Joe Francis
+NER_PERSON: Vladimir Kvashin
+NER_PERSON: Jon Svede
+NER_PERSON: Michael John Cafarella
+NER_PERSON: Greg Owen
+NER_PERSON: Manuel Mall
+NER_PERSON: Susan Hinrichs
+NER_PERSON: Tim Armstrong
+NER_PERSON: Scott Carey
+NER_PERSON: Michael Oliver
+NER_PERSON: Norman Maurer
+NER_PERSON: Nick Kew
+NER_PERSON: Barbara Hallock
+NER_PERSON: Brian A. Husted
+NER_PERSON: David Spencer
+NER_PERSON: Zhen Wang
+NER_PERSON: James Song  
+NER_PERSON: Mac Yang
+NER_PERSON: Thomas Demoor
+NER_PERSON: Christian Glatschke
+NER_PERSON: Donald Leslie
+NER_PERSON: Eugene Chekanskiy
+NER_PERSON: Date
+NER_PERSON: Scott Eade
+NER_PERSON: Jeremy Mitchell
+NER_PERSON: Thomas Vandahl
+NER_PERSON: Andy Taylor
+NER_PERSON: Jeffrey Faath
+NER_PERSON: Oscar Castaneda
+NER_PERSON: Marc Parisi
+NER_PERSON: Edward Slattery
+NER_PERSON: Will Sanfilippo
+NER_PERSON: Jennifer Brown
+NER_PERSON: Richard Zhou
+NER_PERSON: Daniel Kulp
+NER_PERSON: JaeHwa Jung
+NER_PERSON: Simon
+NER_PERSON: Christian Schneider
+NER_PERSON: Drew Walters
+NER_PERSON: Joseph Alan Bohn aries-pmc, aries,
+NER_PERSON: Jon Skeet  
+NER_PERSON: Marc Giger
+NER_PERSON: M. Anderson
+NER_PERSON: Josh Elser
+NER_PERSON: James Maode Mao
+NER_PERSON: Travis Savo
+NER_PERSON: Catherine Hope
+NER_PERSON: Dave
+NER_PERSON: Angela Wang
+NER_PERSON: Ben Litchfield
+NER_PERSON: Manuel Carrasco Monino
+NER_PERSON: Mark A. Matienzo
+NER_PERSON: Alexander Sorokin
+NER_PERSON: Wolf Halton
+NER_PERSON: Ian Huston
+NER_PERSON: Tom Beerbower
+NER_PERSON: Robert Stupp
+NER_PERSON: Jaesang Kim
+NER_PERSON: Tony Homer
+NER_PERSON: Prabhjyot Singh
+NER_PERSON: Chris Snow
+NER_PERSON: Frank Barnaby
+NER_PERSON: Gary Tully
+NER_PERSON: Paul Li
+NER_PERSON: Melissa Pashniak
+NER_PERSON: Greg Dove
+NER_PERSON: Gabriela Gibson
+NER_PERSON: Ben Laurie
+NER_PERSON: solrac901 Carlos Alberto Villavicencio Sanchez
+NER_PERSON: Mark Beardsley
+NER_PERSON: James Jong
+NER_PERSON: Eric Hoch
+NER_PERSON: David Waite
+NER_PERSON: Jiang
+NER_PERSON: Christina Pavlopoulou
+NER_PERSON: Sunil G hadoop-pmc,
+NER_PERSON: Amanda K Moran
+NER_PERSON: Brian Demers
+NER_PERSON: James Holmes
+NER_PERSON: Bruce Brouwer
+NER_PERSON: Mike Haberman
+NER_PERSON: Emma
+NER_PERSON: Steven Yi
+NER_PERSON: Herman van Hövell
+NER_PERSON: Lin Yuan incubator,
+NER_PERSON: Frank John Budinsky
+NER_PERSON: Sean Busbey
+NER_PERSON: Kevin M Gill
+NER_PERSON: Jane Beckman
+NER_PERSON: Cody Ray
+NER_PERSON: Chris M. Hostetter
+NER_PERSON: Alex Behm
+NER_PERSON: Jason
+NER_PERSON: Bob Schellink
+NER_PERSON: Bruno Souza
+NER_PERSON: Chris Tomlinson
+NER_PERSON: Jeroen van der Wal
+NER_PERSON: David Radley
+NER_PERSON: Karl Martin Kalen
+NER_PERSON: Richard Scott
+NER_PERSON: Chris Wensel
+NER_PERSON: Ben Craig
+NER_PERSON: Mike Miller
+NER_PERSON: Christian Grobmeier
+NER_PERSON: Jason Pell
+NER_PERSON: Michael Russo
+NER_PERSON: Scott Cantor
+NER_PERSON: Michael Nixon
+NER_PERSON: Peter George Robbins
+NER_PERSON: Felix Roethenbacher
+NER_PERSON: Oliver Wulff
+NER_PERSON: Brian McCallister
+NER_PERSON: Kevin Brown
+NER_PERSON: John Sirois
+NER_PERSON: Raul Kripalani
+NER_PERSON: Stuart McCulloch
+NER_PERSON: Peter Dähn
+NER_PERSON: Bob Kerns
+NER_PERSON: Bryan Vest
+NER_PERSON: Ian William Dunlop
+NER_PERSON: Mike Stolz
+NER_PERSON: James Jose
+NER_PERSON: Benjamin Bentmann
+NER_PERSON: Christian Amend
+NER_PERSON: Christopher Schultz
+NER_PERSON: Stuart Monteith
+NER_PERSON: David Neuman
+NER_PERSON: Mark Poole
+NER_PERSON: Karen Tran
+NER_PERSON: Dan Dumont
+NER_PERSON: Jason Baldridge
+NER_PERSON: Andrew Kurth
+NER_PERSON: Daniel Zhou
+NER_PERSON: Simon MacDonald
+NER_PERSON: Boris Shulman
+NER_PERSON: Martin Eppel
+NER_PERSON: Michael Hall
+NER_PERSON: Felix Knecht
+NER_PERSON: Jeff Trawick
+NER_PERSON: Andreas Schaefer
+NER_PERSON: Wen Lin
+NER_PERSON: Robert Greig
+NER_PERSON: Clay Leeds
+NER_PERSON: Dan Baskette
+NER_PERSON: Juan Vazquez
+NER_PERSON: Patrick Hilt
+NER_PERSON: Robert Bradshaw
+NER_PERSON: Lena Reinhard
+NER_PERSON: Gabrielle Crawford
+NER_PERSON: Kurt Young
+NER_PERSON: Lee Moon Soo
+NER_PERSON: Ying Chung Guo
+NER_PERSON: Alexander Pivovarov
+NER_PERSON: Tilman Becker
+NER_PERSON: Manuel Teira Paz
+NER_PERSON: William W. Graham Jr chukwa-pmc,
+NER_PERSON: Maurice Amsellem
+NER_PERSON: Jonathan Gallimore
+NER_PERSON: Bruno
+NER_PERSON: Phillip Rhodes
+NER_PERSON: Dale E. Christ
+NER_PERSON: John Kostaras
+NER_PERSON: Victor Sosa
+NER_PERSON: Shawn Sha
+NER_PERSON: Isaac Chiang
+NER_PERSON: Daniel Gredler
+NER_PERSON: Jeffrey Nguyen
+NER_PERSON: T. Gilliland IV
+NER_PERSON: Michael Watzek
+NER_PERSON: vtguy08
+NER_PERSON: Igor Kabiljo
+NER_PERSON: Daniel Ruggeri
+NER_PERSON: Brett Bergquist
+NER_PERSON: Thomas Groh
+NER_PERSON: Mikhail Bautin
+NER_PERSON: Michael Schmalle
+NER_PERSON: Nikita Timofeev
+NER_PERSON: Ted Leung
+NER_PERSON: Peter Lynch
+NER_PERSON: Les Hazlewood
+NER_PERSON: Edward Epstein
+NER_PERSON: Adrian Dick
+NER_PERSON: Christopher Oliver
+NER_PERSON: Philip James Dodds
+NER_PERSON: James Xu
+NER_PERSON: David Kale
+NER_PERSON: Chris
+NER_PERSON: Gang Wu
+NER_PERSON: Mark Stephens
+NER_PERSON: Huikyo Lee
+NER_PERSON: Peter McCracken
+NER_PERSON: Marlon Pierce
+NER_PERSON: Frank Peters
+NER_PERSON: Wes Williams
+NER_PERSON: Shivaram Venkataraman
+NER_PERSON: Danny Mui
+NER_PERSON: Lance Waterman
+NER_PERSON: William Au
+NER_PERSON: Gagandeep Singh
+NER_PERSON: Devarajulu K hadoop-pmc,
+NER_PERSON: Julian Ingram
+NER_PERSON: Cassandra Doll
+NER_PERSON: Mark Slee
+NER_PERSON: Conrad O'Dea
+NER_PERSON: Jark Wu
+NER_PERSON: Darren Middleman
+NER_PERSON: Trevor Grant
+NER_PERSON: Ronald Mann
+NER_PERSON: Ken Finnigan
+NER_PERSON: Jongyoul Lee
+NER_PERSON: Allan Ditzel
+NER_PERSON: Bill Moseley
+NER_PERSON: Philip Zeyliger
+NER_PERSON: Wyatt Barnett
+NER_PERSON: Felix Cheung
+NER_PERSON: Christian Hammers
+NER_PERSON: Frank Stibane
+NER_PERSON: Shawn E Smith
+NER_PERSON: Kurt Schrader
+NER_PERSON: Scott Boyd
+NER_PERSON: Shannon Quinn
+NER_PERSON: Tracy
+NER_PERSON: Ernst Fastl
+NER_PERSON: Dave Jones
+NER_PERSON: Michael Schmitz
+NER_PERSON: Rahul Diyewar
+NER_PERSON: Bernt Johnsen
+NER_PERSON: Elliot Metsger
+NER_PERSON: Matt Brown
+NER_PERSON: Peter Junge
+NER_PERSON: Peter A Royal Jr.
+NER_PERSON: Peter Samuelson
+NER_PERSON: Charles Givre
+NER_PERSON: Grant Ingersoll
+NER_PERSON: Thomas Kurz
+NER_PERSON: Greg Mann
+NER_PERSON: Bill Nagy
+NER_PERSON: Hasan Hasan
+NER_PERSON: Tim Van Steenburgh
+NER_PERSON: Jay Zarfoss
+NER_PERSON: Robert Gemmell
+NER_PERSON: David Charles Johnson
+NER_PERSON: Marc Meadows
+NER_PERSON: Eduard Koller incubator,
+NER_PERSON: John G. Myers
+NER_PERSON: Jesse McConnell
+NER_PERSON: Nico Seessle
+NER_PERSON: Joanne Tong
+NER_PERSON: Theodore Vasiloudis
+NER_PERSON: Brian Moseley  
+NER_PERSON: Paul Guo
+NER_PERSON: Adam Soroka
+NER_PERSON: Ryan Rhodes
+NER_PERSON: David Read
+NER_PERSON: Kevin Sweeney
+NER_PERSON: Sergei Vladykin
+NER_PERSON: Vincent Deffontaines
+NER_PERSON: Yongyao Jiang
+NER_PERSON: Chris Thistlethwaite
+NER_PERSON: Jordan Birdsell
+NER_PERSON: Scott Bryan
+NER_PERSON: Mohammad Asif Siddiqui
+NER_PERSON: Mitchell
+NER_PERSON: David Benjamin Recordon
+NER_PERSON: Garren Smith
+NER_PERSON: Charles Reiss
+NER_PERSON: Steven Caswell
+NER_PERSON: Christian Posta
+NER_PERSON: Abdul Hameed
+NER_PERSON: Charles E. Rolke
+NER_PERSON: Alexander Bezzubov
+NER_PERSON: Andrew Savory
+NER_PERSON: Hans Zeller
+NER_PERSON: Patrick Linskey
+NER_PERSON: Edgar Ruben Poce
+NER_PERSON: Mark Grover
+NER_PERSON: Werner Punz
+NER_PERSON: Lewis John McGibbney
+NER_PERSON: Mikhail Stepura
+NER_PERSON: Richard Eckart de Castilho
+NER_PERSON: Jim Baker
+NER_PERSON: Scott Banachowski
+NER_PERSON: Marcus Crafter
+NER_PERSON: Robert David Zeigler
+NER_PERSON: Andre Arcilla
+NER_PERSON: Nicholas Speeter
+NER_PERSON: Mohammad Arshad
+NER_PERSON: David A. Carver
+NER_PERSON: Joseph Cheng
+NER_PERSON: Henry Story
+NER_PERSON: Oliver Szabo
+NER_PERSON: Ralph Goers
+NER_PERSON: Donald Szeto
+NER_PERSON: Josh Soref
+NER_PERSON: Stephen Gargan
+NER_PERSON: Jonathan Costers
+NER_PERSON: Chris Brody
+NER_PERSON: Benjamin Eberlei
+NER_PERSON: Josh Tynjala
+NER_PERSON: Heather Stephens
+NER_PERSON: Jesse MacFadyen
+NER_PERSON: Andy Wenk
+NER_PERSON: Stuart Douglas
+NER_PERSON: Doug MacEachern
+NER_PERSON: Khaled Noaman
+NER_PERSON: Mike Drob
+NER_PERSON: Paul Rogers
+NER_PERSON: William
+NER_PERSON: Alex Boisvert
+NER_PERSON: Philip Thompson
+NER_PERSON: Tianyi Wang
+NER_PERSON: Joel Knighton
+NER_PERSON: Paul Russell
+NER_PERSON: Stephen L. Hanson
+NER_PERSON: Jonathan Chawke
+NER_PERSON: Regina Henschel
+NER_PERSON: Alfred Maxwell Byers
+NER_PERSON: David Wisneski
+NER_PERSON: Brian Carrier
+NER_PERSON: Christopher Tubbs
+NER_PERSON: David Reid
+NER_PERSON: James Delagrange
+NER_PERSON: William Marshall
+NER_PERSON: Glen Stampoultzis
+NER_PERSON: Adrian Sutton
+NER_PERSON: Todd Nine
+NER_PERSON: Andrei Dulceanu
+NER_PERSON: Zhang
+NER_PERSON: Bryan Cutler
+NER_PERSON: Philip Martin
+NER_PERSON: Tim Fernando
+NER_PERSON: Russell Branca
+NER_PERSON: Li Yang
+NER_PERSON: Jason Porter
+NER_PERSON: George Vetticaden
+NER_PERSON: Will Stevens
+NER_PERSON: Daniel Gómez Ferro
+NER_PERSON: Michael McCurrey
+NER_PERSON: Marcus Eriksson
+NER_PERSON: Jerome Boulon
+NER_PERSON: Andy Perlitch
+NER_PERSON: Cameron Samak
+NER_PERSON: Young Hyun Oh
+NER_PERSON: Mac Noland
+NER_PERSON: Edwin Goei
+NER_PERSON: Chuck Murcko
+NER_PERSON: Jeff Genender
+NER_PERSON: Patrick Wendell
+NER_PERSON: Roberto Rabe
+NER_PERSON: Jonathan Wei
+NER_PERSON: James R. Bray, Jr.
+NER_PERSON: Clay Gimenez
+NER_PERSON: Xue Liu
+NER_PERSON: Teddy Choi
+NER_PERSON: Greg Trasuk
+NER_PERSON: Jeffrey Smith
+NER_PERSON: Mario Antollini
+NER_PERSON: David Brett Rudd
+NER_PERSON: Glenn Weidner
+NER_PERSON: Felix Meschberger
+NER_PERSON: Eduardo Fernandez Lobbe
+NER_PERSON: Chae
+NER_PERSON: Ken Coar
+NER_PERSON: Matthew T. Adams
+NER_PERSON: Eric Johnson
+NER_PERSON: Brian Goetz
+NER_PERSON: Chen Luo
+NER_PERSON: Gary Dusbabek
+NER_PERSON: Ed Korthof
+NER_PERSON: Rob Moran
+NER_PERSON: Toni Menzel
+NER_PERSON: Gianmarco De Francisci Morales
+NER_PERSON: Lin Sun aries-pmc,
+NER_PERSON: Ali Anwar
+NER_PERSON: Daniel Gornstein
+NER_PERSON: Erik de Bruin
+NER_PERSON: Mike Tutkowski
+NER_PERSON: Carl Howells
+NER_PERSON: William Markito
+NER_PERSON: Brandon Myers
+NER_PERSON: Marcus Lange
+NER_PERSON: Graham Leggett
+NER_PERSON: David M. Johnson
+NER_PERSON: Max Kellermann
+NER_PERSON: Tyson Norris
+NER_PERSON: Albert Shau
+NER_PERSON: Thomas Mahler
+NER_PERSON: Raghavendra Singh
+NER_PERSON: Arun Thomas
+NER_PERSON: Ivelin Ivanov
+NER_PERSON: Arthur Chen
+NER_PERSON: Andrew James Piper
+NER_PERSON: Ross Gardler
+NER_PERSON: Andrew Osborne
+NER_PERSON: Richard Ding
+NER_PERSON: David Brown
+NER_PERSON: Peter Ansell
+NER_PERSON: Mark Hamstra
+NER_PERSON: Mark Nuttall
+NER_PERSON: Binglin Chang
+NER_PERSON: Andres Almiray
+NER_PERSON: Felipe Vilas-Boas
+NER_PERSON: Andrew Gaul
+NER_PERSON: Pedro Albuquerque
+NER_PERSON: Eric C. Newton
+NER_PERSON: Ed Coleman
+NER_PERSON: Keith McKenna
+NER_PERSON: Mark McKenna
+NER_PERSON: Brian Stoler
+NER_PERSON: David Remy
+NER_PERSON: Timothy Reilly
+NER_PERSON: Adrian Gonzalez
+NER_PERSON: Holly Cummins
+NER_PERSON: David Bosschaert
+NER_PERSON: John Keyes
+NER_PERSON: Carlos Rovira
+NER_PERSON: Richard Gass
+NER_PERSON: Adam Wojtuniak
+NER_PERSON: Chen
+NER_PERSON: Kevin D Jackson
+NER_PERSON: Alex Broens
+NER_PERSON: Andrea Zoppello
+NER_PERSON: Kirk Kosinski
+NER_PERSON: Mark Brouwer
+NER_PERSON: Alex Kolonitsky
+NER_PERSON: MinJi Kim
+NER_PERSON: John Blum
+NER_PERSON: Dennis Gove
+NER_PERSON: Edward O'Neil
+NER_PERSON: Walter
+NER_PERSON: Brian Edward Stansberry
+NER_PERSON: Han Jiang
+NER_PERSON: Mark Hindess
+NER_PERSON: John Alan William Kaputin
+NER_PERSON: Kyle Dunn
+NER_PERSON: Daniel Diephouse
+NER_PERSON: Simon Svensson
+NER_PERSON: Daniel Keir Haywood
+NER_PERSON: Henri Bergius
+NER_PERSON: Denis Anisimov
+NER_PERSON: George Kirkham
+NER_PERSON: Jim Apple
+NER_PERSON: Mark Hobson
+NER_PERSON: Thomas Draier
+NER_PERSON: Gerald Richter
+NER_PERSON: Alexander Krasnukhin
+NER_PERSON: Leo Simons
+NER_PERSON: Jan Fernando
+NER_PERSON: Casey Ching
+NER_PERSON: Marc Schöchlin
+NER_PERSON: Timothy Michael Moloney
+NER_PERSON: Tony Ffrench
+NER_PERSON: Craig Bachelor
+NER_PERSON: Peter Elst
+NER_PERSON: Robert Chu
+NER_PERSON: Daniel Kuppitz
+NER_PERSON: Bryan Bende
+NER_PERSON: John Hollis III
+NER_PERSON: David Nelson Hutchins Jr.
+NER_PERSON: Erik Abele
+NER_PERSON: Adam Katz
+NER_PERSON: Haibin Lin
+NER_PERSON: Kevin Jackson
+NER_PERSON: Marc Liyanage
+NER_PERSON: Wang Lei
+NER_PERSON: Jeremy Boynes
+NER_PERSON: Scott Ziegler
+NER_PERSON: Carl Steinbach
+NER_PERSON: Andrew C. Baird
+NER_PERSON: C.
+NER_PERSON: Richard Lewis-Shell
+NER_PERSON: Lijin Bin
+NER_PERSON: Jacob Evan Beard
+NER_PERSON: Ali Anil Sinaci
+NER_PERSON: Wendy Smoak
+NER_PERSON: Joshua Adams
+NER_PERSON: Nathan Roberts
+NER_PERSON: Adam Prime
+NER_PERSON: Guangya Liu
+NER_PERSON: Jorge Yabra
+NER_PERSON: Peter Bacsko
+NER_PERSON: Todd Volkert
+NER_PERSON: Joe Schaefer
+NER_PERSON: James Goodson
+NER_PERSON: Marvin Humphrey
+NER_PERSON: Donald Whytock
+NER_PERSON: John Plevyak
+NER_PERSON: Bill Lucy
+NER_PERSON: Daniel Manzke
+NER_PERSON: Kenneth Eric Vasilik
+NER_PERSON: Bryce Curtis
+NER_PERSON: Tim
+NER_PERSON: Brian Rowe
+NER_PERSON: Howard Lewis Ship
+NER_PERSON: Michael Labriola
+NER_PERSON: Ryan LeCompte
+NER_PERSON: Blake Sullivan
+NER_PERSON: Jason Bailey
+NER_PERSON: Brian Topping
+NER_PERSON: Freeman Yue Fang
+NER_PERSON: David N Bertoni
+NER_PERSON: Lei Wang
+NER_PERSON: Benjamin Dewey
+NER_PERSON: Mark DeLaFranier
+NER_PERSON: James Wang
+NER_PERSON: Mark Keinhörster
+NER_PERSON: David North
+NER_PERSON: Daniel Templeton
+NER_PERSON: Eric Xie
+NER_PERSON: Da
+NER_PERSON: Clayton Weise
+NER_PERSON: Weihua Jiang
+NER_PERSON: Chris McTague
+NER_PERSON: Kurt Ward
+NER_PERSON: Andrew Zeneski
+NER_PERSON: Robert Williams
+NER_PERSON: Ted Kirby
+NER_PERSON: Stephen Evanchik
+NER_PERSON: Mike Hogue
+NER_PERSON: Alejandro Fernandez
+NER_PERSON: Christian Tzolov
+NER_PERSON: Jonathan Campos
+NER_PERSON: Jason Altekruse
+NER_PERSON: Warren David Crossing
+NER_PERSON: James Dubee
+NER_PERSON: George Paul
+NER_PERSON: David Lawrence Isaacs
+NER_PERSON: Larry
+NER_PERSON: David Weir
+NER_PERSON: Shawn Laubach
+NER_PERSON: Pedro Boado
+NER_PERSON: Don Lewis
+NER_PERSON: Eric Friedrich
+NER_PERSON: Sterling Hughes
+NER_PERSON: Michel Graciano
+NER_PERSON: Carlos Santana
+NER_PERSON: Zhanwei Wang
+NER_PERSON: Terry Mueller
+NER_PERSON: Paulo Motta
+NER_PERSON: Jiang Yan Xu
+NER_PERSON: Andy Feng
+NER_PERSON: Michael Pollmeier
+NER_PERSON: Charles Chen
+NER_PERSON: Joel Baranick
+NER_PERSON: Mark Little
+NER_PERSON: Kirk Lund
+NER_PERSON: Sarah Joann Aerni
+NER_PERSON: Rob Foley
+NER_PERSON: Darrell John Loverin
+NER_PERSON: David Mark Geary
+NER_PERSON: Frédéric Thomas
+NER_PERSON: Daniel Ascher
+NER_PERSON: Nick Burch
+NER_PERSON: Philip Luppens
+NER_PERSON: Alain Béarez
+NER_PERSON: Alberto Rodriguez
+NER_PERSON: David Winterfeldt
+NER_PERSON: Michelle Phung
+NER_PERSON: Aaron Michael Cordova
+NER_PERSON: James Baldassari
+NER_PERSON: Jason Zhong
+NER_PERSON: Dianne
+NER_PERSON: Frederick G. Oconer
+NER_PERSON: Edward Capriolo
+NER_PERSON: Mohammad Islam
+NER_PERSON: Steven Bethard
+NER_PERSON: Marcelo Masiero Vanzin
+NER_PERSON: Richard G. Curtis
+NER_PERSON: Steven Feltner
+NER_PERSON: Thomas Weise
+NER_PERSON: Vikram Dixit K ambari-pmc,
+NER_PERSON: Michael McCallum
+NER_PERSON: Alexander Denissov
+NER_PERSON: Michael Brown
+NER_PERSON: Ray Rivera
+NER_PERSON: Christian Kunz
+NER_PERSON: Jason Frantz
+NER_PERSON: L.
+NER_PERSON: Chris Judson
+NER_PERSON: Ed Cable
+NER_PERSON: Travis Reeder
+NER_PERSON: Philip Jespersen
+NER_PERSON: David Alves
+NER_PERSON: Chris Martin
+NER_PERSON: Jun Liu
+NER_PERSON: David Woollard
+NER_PERSON: Frances Perry
+NER_PERSON: Peter Hunsberger
+NER_PERSON: David Griffon
+NER_PERSON: Doug Cutting
+NER_PERSON: Lai
+NER_PERSON: David Graham
+NER_PERSON: Joseph Dennis O. Gapuz
+NER_PERSON: Brian Pontarelli
+NER_PERSON: Jeremy Hughes
+NER_PERSON: Jason Trost
+NER_PERSON: Horn
+NER_PERSON: James Margaris
+NER_PERSON: UTC
+NER_PERSON: Greg Stein
+NER_PERSON: Martin Furter
+NER_PERSON: John Bodley
+NER_PERSON: Tony Carlucci
+NER_PERSON: Christopher Mansilungan Cardona
+NER_PERSON: Lucas Theisen
+NER_PERSON: Dave Grove
+NER_PERSON: Joshua Marantz
+NER_PERSON: Volker Weber
+NER_PERSON: Sanford Ryza
+NER_PERSON: Mingfai Ma
+NER_PERSON: Daniel Stefan Haischt
+NER_PERSON: Jeff Sposetti
+NER_PERSON: Dick Cavender
+NER_PERSON: Denis Nadeau
+NER_PERSON: Chip Childers
+NER_PERSON: Christopher Hyzer
+NER_PERSON: David Samuel Glasser
+NER_PERSON: Matthew Cooper
+NER_PERSON: Kurt Wright
+NER_PERSON: Huang Hua incubator,
+NER_PERSON: Dave Cottlehuber
+NER_PERSON: Chris Chabot
+NER_PERSON: Sam John
+NER_PERSON: Ricardo Rocha
+NER_PERSON: Thomas Fox
+NER_PERSON: Andrew MacBean
+NER_PERSON: Carlo Curino
+NER_PERSON: Michael William Brooks
+NER_PERSON: Bella Robinson
+NER_PERSON: Reza Hajebi
+NER_PERSON: Eric Dobbs
+NER_PERSON: Andrew Rist
+NER_PERSON: Bryan Duxbury
+NER_PERSON: Daniel Gergely
+NER_PERSON: Ed Anuff
+NER_PERSON: Neil O'Toole
+NER_PERSON: Chris Dollin
+NER_PERSON: Brandon Li
+NER_PERSON: Joseph Evans
+NER_PERSON: Xi Wang
+NER_PERSON: David Polito
+NER_PERSON: Jonathan Hall
+NER_PERSON: Heng Lee
+NER_PERSON: Carl Yeksigian
+NER_PERSON: David Leangen
+NER_PERSON: Chuck Mastrandrea
+NER_PERSON: Rui Silva
+NER_PERSON: Stephen O'Neil Butler
+NER_PERSON: Sean Mullan
+NER_PERSON: Christian Holzer
+NER_PERSON: Hans Bakker
+NER_PERSON: Alfonso Nishikawa Muñumer
+NER_PERSON: Andrew William John Ford
+NER_PERSON: Alex Merritt
+NER_PERSON: Arthur Naseef
+NER_PERSON: David Welton
+NER_PERSON: Scott Nichol
+NER_PERSON: Brian Pane
+NER_PERSON: Andy Armstrong
+NER_PERSON: Max Thomas
+NER_PERSON: Olga Smola
+NER_PERSON: Peter Somogyi
+NER_PERSON: Hunter
+NER_PERSON: Paul Isaychuk
+NER_PERSON: Chris Mattmann
+NER_PERSON: Jacob Barrett
+NER_PERSON: Ken Giusti
+NER_PERSON: Dan Tran
+NER_PERSON: Fraser Adams
+NER_PERSON: Patrick O'Leary
+NER_PERSON: Brian James Minchau
+NER_PERSON: Richard Feezel
+NER_PERSON: Bill Blough
+NER_PERSON: Rolf Kulemann
+NER_PERSON: Chris Millar
+NER_PERSON: Matt Gilman
+NER_PERSON: Joshua Garcia
+NER_PERSON: Scott Gray
+NER_PERSON: Craig Crutcher
+NER_PERSON: Kent Tong
+NER_PERSON: Alan M. Carroll
+NER_PERSON: Andy Clark
+NER_PERSON: Stephen Kestle
+NER_PERSON: Laura Mariano
+NER_PERSON: Hyoungjun Kim
+NER_PERSON: Matt Raible
+NER_PERSON: Kevin A. Burton
+NER_PERSON: Ian McLeod
+NER_PERSON: Martin
+NER_PERSON: Martin Heidegger
+NER_PERSON: Jamie Mark Goodyear
+NER_PERSON: Andrei Dulvac
+NER_PERSON: Hongliang Liu
+NER_PERSON: Lin
+NER_PERSON: Jeffrey Ryan Fenchel
+NER_PERSON: James Muehlner
+NER_PERSON: Surendra Singh Lilhore
+NER_PERSON: Robert Bowser
+NER_PERSON: Michael Stahl
+NER_PERSON: Scott
+NER_PERSON: Marcus Schulte
+NER_PERSON: Travis Loren Pinney
+NER_PERSON: Vladimir Viktorovich
+NER_PERSON: Richard J. Scheuerle, Jr.
+NER_PERSON: Alberto Ramón
+NER_PERSON: James Decocq
+NER_PERSON: David Latorre Gallego
+NER_PERSON: Hans Brende
+NER_PERSON: James Mitchell
+NER_PERSON: Joseph Lad Germuska
+NER_PERSON: Michael Jouravlev
+NER_PERSON: Ivan Meredith
+NER_PERSON: Jeff Yu
+NER_PERSON: Christian Lippka
+NER_PERSON: Steve Hay
+NER_PERSON: Alan Conway
+NER_PERSON: Stan Drozdetski
+NER_PERSON: David Hill
+NER_PERSON: Erik Weathers
+NER_PERSON: James Wing
+NER_PERSON: Yash Sharma
+NER_PERSON: Nick Felts
+NER_PERSON: Jerry Chen
+NER_PERSON: Tim Allison
+NER_PERSON: Jeff Turner
+NER_PERSON: Young-Seok Kim
+NER_PERSON: Bryan Noll
+NER_PERSON: Patrick Mueller
+NER_PERSON: Matthäus Mayer
+NER_PERSON: Simon Toens
+NER_PERSON: Ahmed Fathalla
+NER_PERSON: Bruce Robbins
+NER_PERSON: Radar Da Lei
+NER_PERSON: Vladimir Ozerov
+NER_PERSON: Donald J. Brown
+NER_PERSON: Michael Elman
+NER_PERSON: Matthew Langham
+NER_PERSON: Michael Stack
+NER_PERSON: Adam Heath
+NER_PERSON: Marcus Sorensen
+NER_PERSON: Alexander Luberg
+NER_PERSON: Kim Ebert
+NER_PERSON: Tim Windsor
+NER_PERSON: Wesley Wannemacher
+NER_PERSON: Lin Chen
+NER_PERSON: Benjamin Bastian
+NER_PERSON: Christian Geisert
+NER_PERSON: Stephen Allen
+NER_PERSON: Adam Winer
+NER_PERSON: Christian Geuer-Pollmann
+NER_PERSON: Paul Ercolino
+NER_PERSON: Vincent Tence
+NER_PERSON: Ted Wilmes
+NER_PERSON: Rainer Jung
+NER_PERSON: Rob Tompkins
+NER_PERSON: Praveen Adlakha
+NER_PERSON: Joseph Gentle
+NER_PERSON: Rutvij Clerk
+NER_PERSON: Steven R. Thorpe
+NER_PERSON: Powers
+NER_PERSON: Eugene Joseph Koontz
+NER_PERSON: George Gastaldi
+NER_PERSON: Sven Reimers
+NER_PERSON: Scott Kurz
+NER_PERSON: Roland Benedetti
+NER_PERSON: Tommy-Carlos Williams
+NER_PERSON: Charles Lamb
+NER_PERSON: Jay Vyas
+NER_PERSON: Lance Diduck
+NER_PERSON: Christian Hogan
+NER_PERSON: Francis
+NER_PERSON: Igor Hersht
+NER_PERSON: Jerry Peng
+NER_PERSON: Brett Porter
+NER_PERSON: Rob Walker
+NER_PERSON: Matthew Jacobs
+NER_PERSON: Matt Yackley
+NER_PERSON: Christopher James Bartlett
+NER_PERSON: Rupert Westenthaler
+NER_PERSON: Ian P. Springer
+NER_PERSON: Dean Jackson
+NER_PERSON: Ian Holsman
+NER_PERSON: Jerome Charron
+NER_PERSON: Alan D Ross
+NER_PERSON: William Bardwell
+NER_PERSON: Andrew Stitcher
+NER_PERSON: Andrew Grove
+NER_PERSON: Daniel Gruno
+NER_PERSON: Andrea Del Bene
+NER_PERSON: Terry Chen
+NER_PERSON: Jim Ferenczi
+NER_PERSON: Paul Goetz
+NER_PERSON: Greg Hogan
+NER_PERSON: Kris Hahn
+NER_PERSON: Michael Beisiegel
+NER_PERSON: Duncan Jones
+NER_PERSON: Danny Sullivan
+NER_PERSON: Michael Rheinheimer
+NER_PERSON: Begin
+NER_PERSON: Steve Yin
+NER_PERSON: Andrew Phillips
+NER_PERSON: Mark Owens
+NER_PERSON: Jon Scott Stevens
+NER_PERSON: Jeremy Ryan Thomerson
+NER_PERSON: Michael Stroucken
+NER_PERSON: Eli Collins
+NER_PERSON: Alex Haskell
+NER_PERSON: Cheng Lian
+NER_PERSON: Bill Anderson
+NER_PERSON: Paul Benedict
+NER_PERSON: Ricardo Barona
+NER_PERSON: Dan
+NER_PERSON: Charles Lee
+NER_PERSON: Erik Erlandson
+NER_PERSON: Chevrier Edith
+NER_PERSON: Kyle Joseph Snavely
+NER_PERSON: Mark Whitlock
+NER_PERSON: Pierre Villard
+NER_PERSON: Michael J. Carey
+NER_PERSON: Alan Cabrera
+NER_PERSON: Stephen Durfey
+NER_PERSON: Timothy Potter
+NER_PERSON: Thomas White
+NER_PERSON: Mike Matrigali
+NER_PERSON: Christian Stocker
+NER_PERSON: Alvin Derek Henrick
+NER_PERSON: Travis Vitek
+NER_PERSON: Tim Barham
+NER_PERSON: Valentin Mahrwald
+NER_PERSON: Andrew Avenoso
+NER_PERSON: David Wheeler
+NER_PERSON: Michael Wall
+NER_PERSON: Daniel Wilson
+NER_PERSON: Dan Allen
+NER_PERSON: Ian Luo
+NER_PERSON: Robert Lazarski
+NER_PERSON: Tim Triemstra
+NER_PERSON: Glen Mazza
+NER_PERSON: Javier Puerto
+NER_PERSON: Patricia Shanahan
+NER_PERSON: Robert Walsh
+NER_PERSON: Tim Kim
+NER_PERSON: Tony Stevenson
+NER_PERSON: Brian James LeRoux
+NER_PERSON: Jacob Lund
+NER_PERSON: Chandni Singh
+NER_PERSON: Nick North
+NER_PERSON: James Thomas
+NER_PERSON: Tanping Wang
+NER_PERSON: Xiaomeng Huang
+NER_PERSON: James Yong
+NER_PERSON: Juan Ramirez
+NER_PERSON: Brad McMillen
+NER_PERSON: Robby Pelssers
+NER_PERSON: Charles Porter
+NER_PERSON: Bill Farner
+NER_PERSON: John McDonnell
+NER_PERSON: Phil Steitz
+NER_PERSON: Tony Faustini
+NER_PERSON: Michael Bouschen
+NER_PERSON: Ravi Prakash
+NER_PERSON: Jeffrey Brekke
+NER_PERSON: Pedro Henrique Oliveira dos Santos wicket-pmc,
+NER_PERSON: Ole Solberg
+NER_PERSON: Lewis
+NER_PERSON: Matthew Hayes
+NER_PERSON: Paul Fremantle
+NER_PERSON: Simone Gatti
+NER_PERSON: Joe Brockmeier
+NER_PERSON: Benjamin Chevallereau
+NER_PERSON: Jiang Xu
+NER_PERSON: Daniel Spicar
+NER_PERSON: Tim Williams
+NER_PERSON: Mark Weitzel
+NER_PERSON: Bryan Pendleton
+NER_PERSON: Mark Bittmann
+NER_PERSON: Botong Huang
+NER_PERSON: Graham Spencer
+NER_PERSON: John Fang
+NER_PERSON: Ivan Brendan Kelly
+NER_PERSON: Ruth
+NER_PERSON: Dave Thompson
+NER_PERSON: Herm Wong
+NER_PERSON: Aaron Myers
+NER_PERSON: Zhang Kewei
+NER_PERSON: Sam Shah
+NER_PERSON: Mike Dusenberry
+NER_PERSON: Eddie Bush
+NER_PERSON: Kevin Zhou
+NER_PERSON: Chris Graham
+NER_PERSON: Robert Buffone
+NER_PERSON: Stanton Sievers
+NER_PERSON: Darryl Pierce
+NER_PERSON: Harry Metske
+NER_PERSON: Jonathan Daugherty
+NER_PERSON: Shinichiro Abe
+NER_PERSON: Steve Freegard
+NER_PERSON: Davies Liu
+NER_PERSON: Mark Giaconia
+NER_PERSON: Johnny Zhang
+NER_PERSON: Jonathan Anstey
+NER_PERSON: Nikolai Dimitrov Tankov
+NER_PERSON: Antoine Levy-Lambert
+NER_PERSON: Scott Ryan
+NER_PERSON: Benjamin Nagel
+NER_PERSON: Matthew Jason Benson
+NER_PERSON: Benjamin P. O'Day
+NER_PERSON: Minto van der Sluis
+NER_PERSON: Guy Ferraiolo
+NER_PERSON: James Taylor
+NER_PERSON: Steven Phillips
+NER_PERSON: Jacob Rosenthal
+NER_PERSON: Avery Ching
+NER_PERSON: Jason Gerlowski
+NER_PERSON: Derek Gelinas
+NER_PERSON: James Pic
+NER_PERSON: A. Rowe Jr.
+NER_PERSON: Gordon Chiu
+NER_PERSON: Yuanbo Liu
+NER_PERSON: Igor Sapego
+NER_PERSON: Michael McCandless
+NER_PERSON: Alex Bozarth
+NER_PERSON: Franz de Copenhague
+NER_PERSON: Michael Parker
+NER_PERSON: Andrew Clute
+NER_PERSON: Marcum
+NER_PERSON: Jinwon Kim
+NER_PERSON: Dan Creswell
+NER_PERSON: Joseph Labrecque
+NER_PERSON: Joseph Ruzzi
+NER_PERSON: Cameron Goodale
+NER_PERSON: Sam Bratton
+NER_PERSON: Aaron Nash
+NER_PERSON: Tom Hobbs
+NER_PERSON: Becky Gibson
+NER_PERSON: Jeff Storck
+NER_PERSON: Jason Jackson
+NER_PERSON: Ferdinand Soethe
+NER_PERSON: Robert Scheifler
+NER_PERSON: Alex Dean
+NER_PERSON: Robin Wyles
+NER_PERSON: Christian Bickel
+NER_PERSON: Dennis Kieselhorst
+NER_PERSON: Martin Hermes
+NER_PERSON: Paul Gier
+NER_PERSON: Mina Lee
+NER_PERSON: David Solis
+NER_PERSON: Jilin Jiang
+NER_PERSON: Eitan Adler
+NER_PERSON: Greg Hudson
+NER_PERSON: Ted Dunning
+NER_PERSON: Mike Heath
+NER_PERSON: Andrew Wong
+NER_PERSON: Peter Kriens
+NER_PERSON: Darrel Schneider
+NER_PERSON: Olivier Grisel
+NER_PERSON: Gregory K. Brown
+NER_PERSON: Andrew Xia
+NER_PERSON: Chan Lee
+NER_PERSON: Paul Bakker
+NER_PERSON: Brian Pinkerton
+NER_PERSON: Greg Rahn
+NER_PERSON: Dan Lu
+NER_PERSON: Jason Johnston
+NER_PERSON: Doug Meil
+NER_PERSON: Paul Querna
+NER_PERSON: Steve Moyer
+NER_PERSON: Dave Marion
+NER_PERSON: Karen Vuong
+NER_PERSON: Allan Yang
+NER_PERSON: Bart van der Schans
+NER_PERSON: Dave Koelmeyer
+NER_PERSON: Lawrence Aston Jones
+NER_PERSON: Michelle Chen
+NER_PERSON: Jim Winstead Jr.
+NER_PERSON: Bao Liu
+NER_PERSON: Kevin Thomas Grignon
+NER_PERSON: Eric S. Raymond
+NER_PERSON: Edward Lu
+NER_PERSON: Steve Gill
+NER_PERSON: Vincent Hennebert
+NER_PERSON: Chonho Lee
+NER_PERSON: Laurence Moroney
+NER_PERSON: Michael André Pearce
+NER_PERSON: David Matthew Bond
+NER_PERSON: Kathy Saunders
+NER_PERSON: Kevan Lee Miller
+NER_PERSON: Lewis Ford
+NER_PERSON: Daniel Robinson
+NER_PERSON: Michael Tanenblatt
+NER_PERSON: James
+NER_PERSON: Mark E. Elrod
+NER_PERSON: Wayne Witzel III
+NER_PERSON: Michael T. Schall
+NER_PERSON: Scott Ganyo
+NER_PERSON: Andrea Pescetti
+NER_PERSON: Patrick Thoyts
+NER_PERSON: Dave Kantor
+NER_PERSON: Michael G. Noll
+NER_PERSON: Steven Noels
+NER_PERSON: Karl Kildén
+NER_PERSON: Mario Ivankovits
+NER_PERSON: Samuel Kevin
+NER_PERSON: Richard Downer
+NER_PERSON: Kris Schneider
+NER_PERSON: Juan Jose Pablos
+NER_PERSON: Jomar Silva
+NER_PERSON: Matthew Edward Kettler
+NER_PERSON: Manuel Gamerdinger
+NER_PERSON: Yolanda Davis
+NER_PERSON: Michael Schubert
+NER_PERSON: Jason Dai
+NER_PERSON: Joseph F White
+NER_PERSON: Yi Ma
+NER_PERSON: Mike Wallace
+NER_PERSON: Jedidiah Smith
+NER_PERSON: Roland Weber
+NER_PERSON: Peter Reilly
+NER_PERSON: Thomas Graves
+NER_PERSON: Ravi Palepu
+NER_PERSON: James CE Johnson
+NER_PERSON: Jesse Ciancetta
+NER_PERSON: Oliver Deakin
+NER_PERSON: Erik Craig
+NER_PERSON: Eric Barnhill
+NER_PERSON: Allen Wittenauer
+NER_PERSON: William Chan
+NER_PERSON: Howard Venners
+NER_PERSON: Wade Chandler
+NER_PERSON: Neil Delima
+NER_PERSON: Dan Burkert
+NER_PERSON: Wolfgang Hoschek
+NER_PERSON: Luis Bernardo
+NER_PERSON: Mike Müller
+NER_PERSON: Trent Nelson
+NER_PERSON: Tim O'Brien
+NER_PERSON: Lukas Nalezenec
+NER_PERSON: Erin Alexander Noe-Payne
+NER_PERSON: Andrea Amerigo Aristodemo Gariboldi
+NER_PERSON: Nuno Santos
+NER_PERSON: Olivier Van Laere
+NER_PERSON: Tom Pierce
+NER_PERSON: Christian
+NER_PERSON: Eric Evans
+NER_PERSON: Andy Seaborne
+NER_PERSON: Sean Palmer
+NER_PERSON: Daniel Quinlan
+NER_PERSON: Thomas Andrew Evers
+NER_PERSON: Frank Wiles
+NER_PERSON: Colin MacNaughton
+NER_PERSON: Martin Krasser
+NER_PERSON: Everardo Lopez Sandoval
+NER_PERSON: Eric Norman
+NER_PERSON: Gerhard Froehlich
+NER_PERSON: Barrett Jay Reed
+NER_PERSON: Karl Heinz Marbaise
+NER_PERSON: Justin Berstler
+NER_PERSON: Michael J Herndon
+NER_PERSON: Lukas Gross
+NER_PERSON: Musachy Barroso
+NER_PERSON: Kishore G helix-pmc,
+NER_PERSON: Perry S Cheng
+NER_PERSON: Michelle Caisse
+NER_PERSON: Piyawoot Songsiritat
+NER_PERSON: Mike Rumph
+NER_PERSON: Petr Kudryavtsev
+NER_PERSON: Richard Kettelerij
+NER_PERSON: Matt Richard Hogstrom
+NER_PERSON: Brian Geffon
+NER_PERSON: Matthew
+NER_PERSON: Tom De Wolf
+NER_PERSON: Christopher Brind
+NER_PERSON: Alex Rudyy
+NER_PERSON: John Steven Hughes
+NER_PERSON: Antoine Toulme
+NER_PERSON: Kevin Anthony Earls
+NER_PERSON: Dave Lester
+NER_PERSON: Alex Lv
+NER_PERSON: David Yozie
+NER_PERSON: Donald Lawrence Sizemore
+NER_PERSON: Stephen Charles Duncan, Jr.
+NER_PERSON: Bill Speirs
+NER_PERSON: Peter Hancock
+NER_PERSON: Matthew Vita
+NER_PERSON: Jason Kenny
+NER_PERSON: Craig L Russell
+NER_PERSON: Lou Qing Le
+NER_PERSON: Chen Peng
+NER_PERSON: Ronald Tschalar
+NER_PERSON: Albert Davidson Chou
+NER_PERSON: Chen Bin
+NER_PERSON: Mark Dineen
+NER_PERSON: Timothy James Ward
+NER_PERSON: Gilbert Song mesos-pmc,
+NER_PERSON: Thomas
+NER_PERSON: Will Holley
+NER_PERSON: Dennis M. Sosnoski
+NER_PERSON: Trustin Lee
+NER_PERSON: John Rushford
+NER_PERSON: Rafael Benevides
+NER_PERSON: Shan Jiang
+NER_PERSON: Christoph Sauer
+NER_PERSON: Olivier Lamy
+NER_PERSON: Robin Anil
+NER_PERSON: Antonin Stefanutti
+NER_PERSON: Justin Tyberg
+NER_PERSON: Nick Williams
+NER_PERSON: Frank Gingras
+NER_PERSON: Mike Beckerle
+NER_PERSON: Thomas Bennett
+NER_PERSON: Andy Dufilie
+NER_PERSON: Dongsheng Song
+NER_PERSON: Steffen Land
+NER_PERSON: Prasanth J hive-pmc,
+NER_PERSON: Doug Chestnut
+NER_PERSON: Brian Federle
+NER_PERSON: Valentin Kuznetsov
+NER_PERSON: Joseph Wu
+NER_PERSON: Martin Wallmer
+NER_PERSON: Ernest Allen
+NER_PERSON: Ali Abbas Rizvi
+NER_PERSON: Andrew Musselman
+NER_PERSON: Evion Kim
+NER_PERSON: Kai Wang incubator,
+NER_PERSON: Zhang eagle-pmc,
+NER_PERSON: Wang Feng
+NER_PERSON: Andrew J McMurry
+NER_PERSON: Randall Watler
+NER_PERSON: Wayne Johnson
+NER_PERSON: Robert Schulman
+NER_PERSON: Shawn Pearce
+NER_PERSON: Michael Han
+NER_PERSON: Mark Kessler
+NER_PERSON: Paul Castro
+NER_PERSON: Ganesh Jung
+NER_PERSON: Bruno Dumon
+NER_PERSON: Marcus May
+NER_PERSON: Eric Yang
+NER_PERSON: Gary Helmling
+NER_PERSON: Alex Newman
+NER_PERSON: Todd M. Byrne
+NER_PERSON: Ed Espino
+NER_PERSON: Timothy Bennett
+NER_PERSON: Thomas Bouron
+NER_PERSON: Alex Muramoto
+NER_PERSON: Gregory Draperi
+NER_PERSON: John Panzer
+NER_PERSON: Steve Malenfant
+NER_PERSON: becka11y
+NER_PERSON: Cameron McCormack
+NER_PERSON: John Grandin
+NER_PERSON: Eric Charles
+NER_PERSON: Bruno Gonzalez Campo
+NER_PERSON: Paul Ramirez
+NER_PERSON: Unreal Jiang
+NER_PERSON: Tim Jones
+NER_PERSON: Bob Lee
+NER_PERSON: Michael Freedman
+NER_PERSON: Ziheng Jiang
+NER_PERSON: Benjamin Dotte
+NER_PERSON: Ian Downes
+NER_PERSON: David Rolsky
+NER_PERSON: Drew Farris
+NER_PERSON: Michael Goulet
+NER_PERSON: Eric Friedman
+NER_PERSON: Martyn Taylor
+NER_PERSON: Joe McDonnell
+NER_PERSON: Dinithi De Silva
+NER_PERSON: Esteve Fernandez
+NER_PERSON: Mark Webb
+NER_PERSON: Li Liu
+NER_PERSON: Alex Chaffee
+NER_PERSON: Jake Farrell
+NER_PERSON: Ray Alan Barlow
+NER_PERSON: Scott Weaver
+NER_PERSON: Jeremy Haile
+NER_PERSON: Peter Bernard West
+NER_PERSON: Stuart Owen
+NER_PERSON: Michael Sierra
+NER_PERSON: Omer
+NER_PERSON: Michael Brohl
+NER_PERSON: Marc Saegesser
+NER_PERSON: Jeremy Bauer
+NER_PERSON: David Michael Reagan
+NER_PERSON: Timothy Farkas
+NER_PERSON: home4slc
+NER_PERSON: Carl
+NER_PERSON: Michael Müller
+NER_PERSON: Christine Poerschke
+NER_PERSON: Andy LoPresto
+NER_PERSON: John Poth
+NER_PERSON: Lyor Goldstein
+NER_PERSON: Archana
+NER_PERSON: Christopher R Rhodes
+NER_PERSON: Andreas Hochsteger
+NER_PERSON: Pradeep Fernando
+NER_PERSON: Daniel Peterson
+NER_PERSON: Kevin Doran
+NER_PERSON: Graham Wallis
+NER_PERSON: Chao Huang
+NER_PERSON: Ivan Habunek
+NER_PERSON: Jason Carey
+NER_PERSON: Robert Haines
+NER_PERSON: Chris Dolan
+NER_PERSON: Steven Jacobs
+NER_PERSON: John Gentilin
+NER_PERSON: Jonathan Hsieh
+NER_PERSON: Michael Wechner
+NER_PERSON: Jesse Anderson
+NER_PERSON: Ben Walding
+NER_PERSON: Eric Tschetter
+NER_PERSON: Darren Hague
+NER_PERSON: Thomas Nielsen
+NER_PERSON: Andy McCright
+NER_PERSON: Timothy Ruppert
+NER_PERSON: Daniel Savarese
+NER_PERSON: Felix Schumacher
+NER_PERSON: Ali Lown
+NER_PERSON: Roland von Herget
+NER_PERSON: George Song incubator,
+NER_PERSON: David Wayne Smiley
+NER_PERSON: James Sirota
+NER_PERSON: Matthew Tovbin
+NER_PERSON: Byron Foster
+NER_PERSON: Barozzi
+NER_PERSON: Sean McNamara
+NER_PERSON: Jonathan Robie
+NER_PERSON: Daniel Näslund
+NER_PERSON: Michelle Yaiser
+NER_PERSON: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z SVN
+NER_PERSON: Chip Senkbeil
+NER_PERSON: Marshall Schor
+NER_PERSON: Blake Eggleston
+NER_PERSON: Kevin Duling
+NER_PERSON: Michael Pilato
+NER_PERSON: Nick Knize
+NER_PERSON: Tyson Condie
+NER_PERSON: Kyle Richardson
+NER_PERSON: Aaron Morton
+NER_PERSON: Adam
+NER_PERSON: Michael Merz
+NER_PERSON: Simon South
+NER_PERSON: Jeremy Whitlock
+NER_PERSON: Levin
+NER_PERSON: Andy Doerr
+NER_PERSON: Nathan Johnson
+NER_PERSON: Casey Lucas
+NER_PERSON: James M. Snell
+NER_PERSON: Sharma K S
+NER_PERSON: Alex Zbarcea
+NER_PERSON: Adam Fuchs
+NER_PERSON: Francis De Brabandere
+NER_PERSON: John McClain
+NER_PERSON: Guido Wimmel
+NER_PERSON: Matthew Hamann
+NER_PERSON: Jonathan Boulle
+NER_PERSON: Jiannan Wang
+NER_PERSON: Bozhong Lin
+NER_PERSON: Jason David Davies
+NER_PERSON: Lan Wang
+NER_PERSON: Katherine Marsden
+NER_PERSON: Hutson Betts
+NER_PERSON: Chris Geer
+NER_PERSON: Ryan Ramage
+NER_PERSON: Anil Saldhana
+NER_PERSON: Robert Dale
+NER_PERSON: David McKay
+NER_PERSON: Jon Zeolla
+NER_PERSON: Hongxu Ma
+NER_PERSON: Mark Thomas
+NER_PERSON: Larry McCay
+NER_PERSON: Charles Allen
+NER_PERSON: Alex R
+NER_PERSON: Ray Chen
+NER_PERSON: Nathan Beyer
+NER_PERSON: Grant Henke
+NER_PERSON: Jason Dere
+NER_PERSON: Stuart Williams
+NER_PERSON: Rafael
+NER_PERSON: Chris Burroughs
+NER_PERSON: Scott Delamater
+NER_PERSON: Daniel Ferradal
+NER_PERSON: Quan Jiang
+NER_PERSON: Henry Jen
+NER_PERSON: Aaron Mihalik
+NER_PERSON: Christopher Greenlee
+NER_PERSON: Zhao Yongming
+NER_PERSON: Robert Nishihara
+NER_PERSON: Bruce Mitchener
+NER_PERSON: Joshua Cohen
+NER_PERSON: Dan Crichton
+NER_PERSON: Frank D. Cringle
+NER_PERSON: Malcolm Edgar
+NER_PERSON: Mark Hammond
+NER_PERSON: Sam Joyce
+NER_PERSON: Arthur Berezin
+NER_PERSON: Adrian Schuepbach
+NER_PERSON: Kevin Wilfong
+NER_PERSON: Matt Stephenson
+NER_PERSON: Allen Pulsifer
+NER_PERSON: Nick Dimiduk
+NER_PERSON: Shane Curcuru
+NER_PERSON: Ashish Singh
+NER_PERSON: Abhishek Singh Chouhan
+NER_PERSON: Kevin
+NER_PERSON: George Percivall
+NER_PERSON: Olivier Heintz
+NER_PERSON: Juan Pablo Santos Rodríguez
+NER_PERSON: Gabriel Sidler
+NER_PERSON: Jeremy Quinn
+NER_PERSON: Peter Sutter
+NER_PERSON: Aaron Feng
+NER_PERSON: Joe Witt
+NER_PERSON: Alexander Shraer
+NER_PERSON: Zhuo Liu
+NER_PERSON: Mark Torluemke
+NER_PERSON: Thomas Schneider
+NER_PERSON: James F. Marino
+NER_PERSON: Dietrich incubator,
+NER_PERSON: Jason Dillon
+NER_PERSON: Scott Blum
+NER_PERSON: Elliott
+NER_PERSON: Melissa Warnkin
+NER_PERSON: Joseph Kurata Bradley
+NER_PERSON: Joe Williams
+NER_PERSON: Robert James Oxspring
+NER_PERSON: Kevin Sangwoo Kim
+NER_PERSON: Jean Hollis Weber
+NER_PERSON: Josh Thompson
+NER_PERSON: Brent Lintner
+NER_PERSON: Mark Benedetto King
+NER_PERSON: Paul Ferraro
+NER_PERSON: Dan Markwat
+NER_PERSON: Joe Percivall
+NER_PERSON: Von Gosling
+NER_PERSON: Jared Stewart
+NER_PERSON: Michael Osipov
+NER_PERSON: Joshua Slive
+NER_PERSON: Joe Skora
+NER_PERSON: Mikhail Epikhin
+NER_PERSON: Michael W Moser
+NER_PERSON: Ravi Gummadi
+NER_PERSON: Steven J. Hathaway
+NER_PERSON: James Purser
+NER_PERSON: Geert van der Ploeg
+NER_PERSON: Keith Wall
+NER_PERSON: Gwyn Evans
+NER_PERSON: Stephen Viens
+NER_PERSON: Max Oliver Bowsher
+NER_PERSON: John Carr
+NER_PERSON: Eduardo Breijo
+NER_PERSON: Peter Eberlein
+NER_PERSON: Sean Finan
+NER_PERSON: Brian Cho
+NER_PERSON: Felix Lee
+NER_PERSON: Carlos Vara Callau
+NER_PERSON: Jim Gregoric
+NER_PERSON: Jason Giedymin
+NER_PERSON: Luis
+NER_PERSON: Kevin Seguin
+NER_PERSON: Anita Kulshreshtha
+NER_PERSON: Michael Armbrust
+NER_PERSON: Michael Wu
+NER_PERSON: Thomas Termin
+NER_PERSON: Brandon Williams
+NER_PERSON: Greg Sterijevski
+NER_PERSON: Peter Wicks
+NER_PERSON: Gregg Lewis Smith
+NER_PERSON: Grace Huang
+NER_PERSON: Phil Sorber
+NER_PERSON: Shawn Feldman
+NER_PERSON: Daniel Beaulieu
+NER_PERSON: Bob Herrmann
+NER_PERSON: Guozhang Wang
+NER_PERSON: Jimin Wu
+NER_PERSON: Andrew Ponsonby Lindesay
+NER_PERSON: Mark A. Carlson
+NER_PERSON: Houjin Huang
+NER_PERSON: Adam Feng
+NER_PERSON: Daniel Florey
+NER_PERSON: Ryan Edward Ebanks
+NER_PERSON: Maria Andersson
+NER_PERSON: Andrew Hsu
+NER_PERSON: Brian E Fox
+NER_PERSON: Pascal Schumacher
+NER_PERSON: Patrick Nolan Daly
+NER_PERSON: John Dunning
+NER_PERSON: Aaron Bannert
+NER_PERSON: Antonio Maranhao
+NER_PERSON: Ron Smeral
+NER_PERSON: Jeff Maury
+NER_PERSON: David Lao
+NER_PERSON: Stefan Zoerner
+NER_PERSON: William Sobel
+NER_PERSON: Chen Gang
+NER_PERSON: James Howard
+NER_PERSON: Jungin Lee
+NER_PERSON: Chris Stevenson
+NER_PERSON: Paul Vee
+NER_PERSON: Robert Burrell Donkin
+NER_PERSON: Pedro Giffuni
+NER_PERSON: John
+NER_PERSON: Robert Miller
+NER_PERSON: Julian Foad
+NER_PERSON: Martin Hollmichel
+NER_PERSON: Howard
+NER_PERSON: Ryan McKinley
+NER_PERSON: Ignacio Gonzalez MacDowell
+NER_PERSON: Oliver Zeigermann
+NER_PERSON: John Yang
+NER_PERSON: Eron Wright
+NER_PERSON: Josh Micich
+NER_PERSON: Jason Huynh
+NER_PERSON: Yaliang Wang
+NER_PERSON: Ivan Mitic
+NER_PERSON: Ellen Friedman
+NER_PERSON: Robert Muir
+NER_PERSON: Fay Wang
+NER_PERSON: Joe Swatosh
+NER_PERSON: James Clampffer
+NER_PERSON: Michael B. Yoder
+NER_PERSON: Santiago Perez
+NER_PERSON: Kevin Liew
+NER_PERSON: Diana Thayer
+NER_PERSON: Max Pfingsthorn
+NER_PERSON: Wang Cheng
+NER_PERSON: Mike Kienenberger
+NER_PERSON: Tom Barber drat-pmc,
+NER_PERSON: Marco Peters
+NER_PERSON: Walter Kasper
+NER_PERSON: Benjamin Speakmon
+NER_PERSON: Antonio Vieiro
+NER_PERSON: Cameron Fieber
+NER_PERSON: Martin Alderson
+NER_PERSON: David Blevins
+NER_PERSON: Anand Mazumdar
+NER_PERSON: David Ezzio
+NER_PERSON: Stephen Connolly
+NER_PERSON: Taewoo Kim
+NER_PERSON: Ruth Suehle
+NER_PERSON: David E. Jones
+NER_PERSON: Ivan Weng
+NER_PERSON: Chris Nauroth
+NER_PERSON: Gil Portenseigne
+NER_PERSON: David McLaughlin
+NER_PERSON: Paul King
+NER_PERSON: Pavel Rebriy
+NER_PERSON: Randy May
+NER_PERSON: Elias Torres
+NER_PERSON: Ian Dickinson
+NER_PERSON: jmark99
+NER_PERSON: Mark Hayes
+NER_PERSON: Michael Dick
+NER_PERSON: David Fisher
+NER_PERSON: David Goddard
+NER_PERSON: David Whiting
+NER_PERSON: Arthur Buijs
+NER_PERSON: Walter Ray-Dulany
+NER_PERSON: Antonio Petrelli
+NER_PERSON: Li Bo
+NER_PERSON: Anthony Beylerian
+NER_PERSON: Michael Baessler
+NER_PERSON: Jonathan K. Schneider
+NER_PERSON: Andy I.C.
+NER_PERSON: Charles
+NER_PERSON: Michael Chamberlain
+NER_PERSON: Thomas Hug
+NER_PERSON: David Illsley
+NER_PERSON: Jennifer Thompson
+NER_PERSON: Kyle Finley
+NER_PERSON: Roy T. Fielding
+NER_PERSON: Sean Hickey
+NER_PERSON: Neil Madsen
+NER_PERSON: Thad Smith
+NER_PERSON: Dewayne Richardson
+NER_PERSON: Daniel John Debrunner
+NER_PERSON: Ronnie Brunner
+NER_PERSON: Juan C. Sanz
+NER_PERSON: Oliver Rau
+NER_PERSON: Scott Sanders
+NER_PERSON: Vincent Hardy
+NER_PERSON: Nicholas Verbeck
+NER_PERSON: Lukas Friedrichsen
+NER_PERSON: Matt Rutkowski
+NER_PERSON: Evan Gilbert
+NER_PERSON: Albert Lee
+NER_PERSON: Hubert Kasilag Rabago
+NER_PERSON: David Dixon-Peugh
+NER_PERSON: Jack Bates
+NER_PERSON: Taylor Goetz
+NER_PERSON: David Borba Manana
+NER_PERSON: Anthony LaMarr Watkins
+NER_PERSON: Leigh Stewart
+NER_PERSON: Aaron Mulder
+NER_PERSON: Daniel Lutz
+NER_PERSON: Wayne Burke
+NER_PERSON: Martin Grund
+NER_PERSON: Alan Gates
+NER_PERSON: Scott Deboy
+NER_PERSON: Carol Frampton
+NER_PERSON: Nick J. Chalko
+NER_PERSON: Dave Barton
+NER_PERSON: Simon Kitching
+NER_PERSON: Vincent Zhao
+NER_PERSON: John Speidel
+NER_PERSON: Gabriel Beims Bräscher
+NER_PERSON: Martin Klähn
+NER_PERSON: Robert Leland
+NER_PERSON: Brandon Edwards
+NER_PERSON: Michael Mosmann
+NER_PERSON: Anthony Xu
+NER_PERSON: Samuel De Medeiros Queiroz
+NER_PERSON: Michael E. Rodriguez
+NER_PERSON: Richard James Dougherty
+NER_PERSON: Guosheng Lu
+NER_PERSON: Jervis Liu
+NER_PERSON: Patricia Blackwelder
+NER_PERSON: Patrick Leo Tardif
+NER_PERSON: Changshin Lee
+NER_PERSON: John Chambers
+NER_PERSON: Andreas Gruber
+NER_PERSON: Bruno Mahé
+NER_PERSON: Alex Kolbasov
+NER_PERSON: Allen
+NER_PERSON: Evans Ye
+NER_PERSON: Geoffrey Corey
+NER_PERSON: Paul C. Loikith
+NER_PERSON: Jeff Eastman
+NER_PERSON: Michael A. Hedderich
+NER_PERSON: Mike Clark
+NER_PERSON: Sandy McArthur Jr commons
+NER_PERSON: Ben Keen
+NER_PERSON: Andreas Filler
+NER_PERSON: Sanha Lee
+NER_PERSON: Peter Klügl
+NER_PERSON: Brian Foster
+NER_PERSON: Tyler Akidau
+NER_PERSON: Jian Fang Zhang
+NER_PERSON: Josh Rosen
+NER_PERSON: Kihwal Lee
+NER_PERSON: Katz
+NER_PERSON: Kay Ousterhout
+NER_PERSON: Andy Brown
+NER_PERSON: Daniel Molina Aranda
+NER_PERSON: Hongbin Ma
+NER_PERSON: Steve Varnau
+NER_PERSON: John Vines
+NER_PERSON: Chris Wilkinson
+NER_PERSON: Lawrence
+NER_PERSON: Jean Marie Pascal
+NER_PERSON: Simon Pepping
+NER_PERSON: Howard Gao
+NER_PERSON: Alex Van Boxel
+NER_PERSON: Kevin Krouse
+NER_PERSON: Petir Kwiatkowski
+NER_PERSON: Ian Maxon
+NER_PERSON: Ivan Alexis Barrera Andrade
+NER_PERSON: Ian Roughley
+NER_PERSON: Chris Riccomini
+NER_PERSON: Christopher Piro
+NER_PERSON: Simon Willnauer
+NER_PERSON: David Bau II
+NER_PERSON: Jeff Dunham
+NER_PERSON: Jeff Hodges
+NER_PERSON: Ethan Jewett
+NER_PERSON: Neil Bartlett
+NER_PERSON: Garry Turkington
+NER_PERSON: Nikita Ivanov
+NER_PERSON: Peter Ertl
+NER_PERSON: Arthur
+NER_PERSON: James Malone
+NER_PERSON: Alex Heneveld
+NER_PERSON: Adam Estrada
+NER_PERSON: Staci Cooper
+NER_PERSON: Alexander Rojas
+NER_PERSON: Alfred Nathaniel
+NER_PERSON: Alex Feinberg
+NER_PERSON: Chris Olivier
+NER_PERSON: Yevgeny Khodorkovsky
+NER_PERSON: Allan
+NER_PERSON: Henry Zongaro
+NER_PERSON: Pieter Martin
+NER_PERSON: Victor Gonzalez
+NER_PERSON: Chris Westin
+NER_PERSON: Gregory Trubetskoy apsite,
+NER_PERSON: Jacob Champion
+NER_PERSON: Robert Godfrey
+NER_PERSON: David Meikle
+NER_PERSON: Dan Rollo
+NER_PERSON: Brian Bouterse
+NER_PERSON: Jihong Ma
+NER_PERSON: Scott England-Sullivan
+NER_PERSON: Eric Covener
+NER_PERSON: Brad C. Harder
+NER_PERSON: Dave Cahill
+NER_PERSON: Scott Russell Halgrim
+NER_PERSON: Jeremy Tellier
+NER_PERSON: Kevin Kluge
+NER_PERSON: Ali Ok
+NER_PERSON: Martin Serrano
+NER_PERSON: Daisy Zhou
+NER_PERSON: James Gosling
+NER_PERSON: Chris Lloyd
+NER_PERSON: Maria Catherine R. Tan
+NER_PERSON: Dmitry
+NER_PERSON: Woo-Yeon Lee
+NER_PERSON: Karanjeet Singh
+NER_PERSON: Mike Percy
+NER_PERSON: Igor Gali?
+NER_PERSON: Dong Lin
+NER_PERSON: Mark Butler
+NER_PERSON: Michael Ho
+NER_PERSON: Jeff Tranter
+NER_PERSON: Will McQueen
+NER_PERSON: Nick Vatamaniuc
+NER_PERSON: Brian Behlendorf
+NER_PERSON: Ali Ghodsi
+NER_PERSON: Sally Khudairi
+NER_PERSON: Russell Jurney
+NER_PERSON: Samuel Meder
+NER_PERSON: Stephen
+NER_PERSON: Kevin Klues
+NER_PERSON: Jason Darrell Lowe
+NER_PERSON: Dominic Evans
+NER_PERSON: Christopher Lenz
+NER_PERSON: Yuan Jiang hbase-pmc,
+NER_PERSON: Dan Halperin
+NER_PERSON: Sergio Fernández
+NER_PERSON: Patrick Stuedi
+NER_PERSON: Michael Bauer
+NER_PERSON: Wesley Graham Peck
+NER_PERSON: Andrea Giovanni Nuzzolese
+NER_PERSON: Joseph E. Gonzalez
+NER_PERSON: David Wood
+NER_PERSON: Luis Tavarez
+NER_PERSON: Andrei Savu
+NER_PERSON: Brian Burch
+NER_PERSON: Paul Libbrecht
+NER_PERSON: Mark Murphy
+NER_PERSON: Jim Meyering
+NER_PERSON: Jonathan Moore
+NER_PERSON: Benjamin Mahler
+NER_PERSON: Subin M ambari-pmc,
+NER_PERSON: Terence Monteiro
+NER_PERSON: Mark Harwood
+NER_PERSON: Doug Davis
+NER_PERSON: Walter Hoehn
+NER_PERSON: Bryan Rosander
+NER_PERSON: Christopher Anderson
+NER_PERSON: Ross Laidlaw
+NER_PERSON: Karen Miller
+NER_PERSON: Renato Javier Marroquín Mogrovejo
+NER_PERSON: Tom Matecki
+NER_PERSON: Dave Beech
+NER_PERSON: Li Lu
+NER_PERSON: Jean Arcand
+NER_PERSON: Greg Huber
+NER_PERSON: Roland Zwaga
+NER_PERSON: Andrew Black
+NER_PERSON: Scott Goldstein
+NER_PERSON: Laurie Harper
+NER_PERSON: Li Li
+NER_PERSON: Jay Bryant
+NER_PERSON: James Dyer
+NER_PERSON: Ted Husted
+NER_PERSON: Nick Lothian
+NER_PERSON: Jim Spring
+NER_PERSON: Lionel Liu
+NER_PERSON: Frank Lynch
+NER_PERSON: John Peacock
+NER_PERSON: Raymond DeCampo
+NER_PERSON: Christopher Harm
+NER_PERSON: Theo Van Dinter
+NER_PERSON: Pierre Sutra
+NER_PERSON: Igor V. Stolyarov
+NER_PERSON: Jonathan Coveney
+NER_PERSON: Ben Chambers
+NER_PERSON: Josh Canfield
+NER_PERSON: Xiaorui Wang
+NER_PERSON: Jeff Jensen
+NER_PERSON: Steve Coffman
+NER_PERSON: Nick Couchman
+NER_PERSON: Peter Thygesen
+NER_PERSON: Grace Guo
+NER_PERSON: Igor Kaplansky
+NER_PERSON: Stephen Walkauskas
+NER_PERSON: Joe Wang
+NER_PERSON: Jordan Ly
+NER_PERSON: Joe Orton
+NER_PERSON: Mark Erickson
+NER_PERSON: James Kosin
+NER_PERSON: Andrew Hart
+NER_PERSON: David Harris
+NER_PERSON: Ian Duffy
+NER_PERSON: David Tanzer
+NER_PERSON: Martin Desruisseaux
+NER_PERSON: Jackie Heitzer
+NER_PERSON: Patrick Rhomberg
+NER_PERSON: Youngwoo Kim
+NER_PERSON: Thomas Andraschko
+NER_PERSON: Igor Rudyak
+NER_PERSON: Jeffrey Leo John
+NER_PERSON: David Medinets
+NER_PERSON: Steven Francus
+NER_PERSON: Matthew Baird
+NER_PERSON: Lynn Hughes-Godfrey
+NER_PERSON: Mel Kiyama
+NER_PERSON: Dale LaBossiere
+NER_PERSON: Erik Jansman
+NER_PERSON: Carl Johan Erik Edstrom
+NER_PERSON: William Berkeley
+NER_PERSON: Khalid Huseynov
+NER_PERSON: Michael Stover
+NER_PERSON: Shepherd
+NER_PERSON: Peter Kovacs
+NER_PERSON: Steve Toback
+NER_PERSON: Allen George
+NER_PERSON: Ferdinand Xu
+NER_PERSON: Yogi Devendra
+NER_PERSON: Aaron Blake Niskode-Dossett
+NER_PERSON: David Lim
+NER_PERSON: Robert Metzger
+NER_PERSON: Yeonhee Lee
+NER_PERSON: Stephen Vinoski
+NER_PERSON: Will Vaughan
+NER_PERSON: Christopher Giles A. Lim
+NER_PERSON: Jim Nasr
+NER_PERSON: Randy Terbush
+NER_PERSON: Fred Dushin
+NER_PERSON: Mark John Atwell
+NER_PERSON: Coach Wei
+NER_PERSON: Felix Maeder  
+NER_PERSON: Michael Fitzner
+NER_PERSON: Greg Brandt
+NER_PERSON: Tom Jordahl
+NER_PERSON: Christopher Rohr
+NER_PERSON: Daniel Bentley
+NER_PERSON: Zameer Manji
+NER_PERSON: Jonathan Locke
+NER_PERSON: Alexander North
+NER_PERSON: Peter Evans
+NER_PERSON: Jon Sime
+NER_PERSON: Allan K. Edwards
+NER_PERSON: Ryan Frishberg
+NER_PERSON: Luke Lu
+NER_PERSON: Don Shields
+NER_PERSON: Jeremy Arnold
+NER_PERSON: Bryan Thompson
+NER_PERSON: Alex Levenson
+NER_PERSON: Shane Huang
+NER_PERSON: Mark Johnson
+NER_PERSON: Dan Norris
+NER_PERSON: Yi Liu
+NER_PERSON: Michael Dürig
+NER_PERSON: Thomas J. Frazier
+NER_PERSON: William Barker
+NER_PERSON: Andrew M. Lim
+NER_PERSON: Thomas Nadeau
+NER_PERSON: John Wagenleitner
+NER_PERSON: Thomas Dudziak
+NER_PERSON: Simon Ratner
+NER_PERSON: Ricky Saltzer
+NER_PERSON: Tom Chiverton
+NER_PERSON: Jim Ma
+NER_PERSON: Mikhail Loenko
+NER_PERSON: Hank Beatty
+NER_PERSON: Mike Dunker
+NER_PERSON: Michael Glavassevich
+NER_PERSON: Yanping Wang
+NER_PERSON: Christopher L. Shannon
+NER_PERSON: Benjamin Anderson
+NER_PERSON: David Abram Cargill
+NER_PERSON: Hall
+NER_PERSON: Thomas Bayer
+NER_PERSON: Maria Odea
+NER_PERSON: Aaron Coburn
+NER_PERSON: Steve Jiang
+NER_PERSON: John Liu
+NER_PERSON: Ivan Zhakov
+NER_PERSON: Andrew Ahn
+NER_PERSON: Julian Reschke
+NER_PERSON: Bob Harner
+NER_PERSON: Jesse A. Ramos
+NER_PERSON: Felipe Leme
+NER_PERSON: Shaoxuan Wang
+NER_PERSON: Raman Grover
+NER_PERSON: Blair Zajac
+NER_PERSON: Gavin Lee
+NER_PERSON: Matt Frantz
+NER_PERSON: Matthew Hawthorne
+NER_PERSON: Richard Wayne Monson-Haefel
+NER_PERSON: Jeff Tapper
+NER_PERSON: Anthony Baker
+NER_PERSON: Dave Reynolds
+NER_PERSON: Peter Ent
+NER_PERSON: Ryan Ernst
+NER_PERSON: Ravi Magham
+NER_PERSON: Roger Leigh
+NER_PERSON: Mark Deuser
+NER_PERSON: Queenie Ma
+NER_PERSON: Terence Yim
+NER_PERSON: Raminderjeet Singh
+NER_PERSON: Mark Bretl
+NER_PERSON: Darryl Pogue
+NER_PERSON: Isaac Kamga
+NER_PERSON: Carlos Sanchez Gonzalez
+NER_PERSON: Mike Dierken
+NER_PERSON: Henry Chan
+NER_PERSON: Neil Conway
+NER_PERSON: Chris Pike
+NER_PERSON: David Kemp
+NER_PERSON: Brian Fitzpatrick
+NER_PERSON: Martin Traverso
+NER_PERSON: allee8285
+NER_PERSON: Fred Preston
+NER_PERSON: David Rapp
+NER_PERSON: Keith Chapman
+NER_PERSON: Will Dazey
+NER_PERSON: Liu Ping
+NER_PERSON: Thomas Marshall
+NER_PERSON: Robin Dhamankar
+NER_PERSON: Jon Peli Oleaga
+NER_PERSON: Wilfredo Sanchez
+NER_PERSON: Kyle Marvin
+NER_PERSON: Mike Braden
+NER_PERSON: Robert Kanter
+NER_PERSON: Ellison Anne Williams
+NER_PERSON: Josh Mahonin
+NER_PERSON: Oliver Lietz
+NER_PERSON: Alex Mantaut
+NER_PERSON: Igor Costa
+NER_PERSON: Dan Davydov
+NER_PERSON: Jeffrey West
+NER_PERSON: Robert Meyer
+NER_PERSON: Sean Kelly
+NER_PERSON: Chloe Jackson
+NER_PERSON: Matt Sergeant
+NER_PERSON: Wayne Fay
+NER_PERSON: Benjamin Bannier
+NER_PERSON: Lance Frohman
+NER_PERSON: Henri Yandell
+NER_PERSON: Peter Donald
+NER_PERSON: Gabriel Reid
+NER_PERSON: Susan L. Cline
+NER_PERSON: Adrian Cumiskey
+NER_PERSON: Vinayakumar B hadoop-pmc,
+NER_PERSON: Alexander Shorin
+NER_PERSON: Guido Casper
+NER_PERSON: David Haney
+NER_PERSON: Bryan Che
+NER_PERSON: Sara
+NER_PERSON: Zhe Wang
+NER_PERSON: Michael Blum
+NER_PERSON: Chao Wang
+NER_PERSON: Hassan Eslami
+NER_PERSON: Eric Dofonsou
+NER_PERSON: Matthew Lovett
+NER_PERSON: Stephen Colebourne
+NER_PERSON: Sangjin Lee
+NER_PERSON: Chris Twiner
+NER_PERSON: Xinglang Wang
+NER_PERSON: Matt Burgess
+NER_PERSON: Keith Bennett
+NER_PERSON: Eric Balsa
+NER_PERSON: Michael Smith
+NER_PERSON: Chris Aniszczyk
+NER_PERSON: Michael Link
+NER_PERSON: Dale Harvey
+NER_PERSON: Rick Tessner
+NER_PERSON: Graham Phillip Dumpleton
+NER_PERSON: Juan C. Duenas
+NER_PERSON: Jordan Naftolin
+NER_PERSON: Hubert Zhang
+NER_PERSON: Sam Robertson
+NER_PERSON: Justin Ross
+NER_PERSON: Derek Baum
+NER_PERSON: Patrick Schneider
+NER_PERSON: Vladimir Ivanov
+NER_PERSON: Nathan Marz
+NER_PERSON: David ZL Liu
+NER_PERSON: Boris Kolpackov
+NER_PERSON: Christopher K. St. John
+NER_PERSON: Michael Shuler
+NER_PERSON: Sheng Wang
+NER_PERSON: Michael Blow
+NER_PERSON: James Joseph Masanz
+NER_PERSON: Philip Mark Donaghy
+NER_PERSON: Kevin Ratnasekera
+NER_PERSON: Kevin Monroe
+NER_PERSON: Dan Kilman
+NER_PERSON: Justin Yip
+NER_PERSON: Brian Leathem
+NER_PERSON: Omar Gonzalez
+NER_PERSON: Donald P. Harbison
+NER_PERSON: Sean Hardman
+NER_PERSON: Russell Butek
+NER_PERSON: Yunseong Lee
+NER_PERSON: Michael Champion
+NER_PERSON: Michael Marth
+NER_PERSON: Robert Menschel
+NER_PERSON: Lou DeGenaro
+NER_PERSON: Val Mallder
+NER_PERSON: David Crossley
+NER_PERSON: Nathan L Segerlind
+NER_PERSON: James Strachan
+NER_PERSON: Mike Walch
+NER_PERSON: Gerard Gagliano
+NER_PERSON: Hongfang Liu
+NER_PERSON: Daniel Naber
+NER_PERSON: Drew Jensen
+NER_PERSON: Neal Hu
+NER_PERSON: Paul Taylor
+NER_PERSON: Eric Dalquist
+NER_PERSON: Mike Jumper
+NER_PERSON: Paul Joseph Davis
+NER_PERSON: Tim Raff
+NER_PERSON: Mark Chu-Carroll
+NER_PERSON: Charles R. Benett
+NER_PERSON: Michael Nascimento
+NER_PERSON: Steve Niemitz
+NER_PERSON: Neil Graham
+NER_PERSON: Michael Vorburger
+NER_PERSON: Ben Qiu
+NER_PERSON: Jonathan Ellis
+NER_PERSON: Brad Kolarov
+NER_PERSON: Mercy Ma
+NER_PERSON: John Hewitt
+NER_PERSON: Mikhail Fursov
+NER_PERSON: Steve Lee
+NER_PERSON: Timothy James Veil
+NER_PERSON: Frederick Reiss
+NER_PERSON: Robin Wesley McKean
+NER_PERSON: Geoffrey Jacoby
+NER_PERSON: Aaron McCurry
+NER_PERSON: Kim LiChong
+NER_PERSON: Graham Lauder
+NER_PERSON: John Pradeep
+NER_PERSON: Gabriel Resneck
+NER_PERSON: David H. DeWolf
+NER_PERSON: Gregory Shimansky
+NER_PERSON: Tim Liu
+NER_PERSON: Travis Crawford
+NER_PERSON: Ryan Bloom
+NER_PERSON: James Paton
+NER_PERSON: Mohammad Nour El-Din
+NER_PERSON: Joe Quinn
+NER_PERSON: Andrew Perry
+NER_PERSON: Chris Custine
+NER_PERSON: Marcus Holthaus
+NER_PERSON: Huafeng Wang
+NER_PERSON: Ken Sipe
+NER_PERSON: Lionel Cao
+NER_PERSON: Jason van Zyl
+NER_PERSON: Peña
+NER_PERSON: Andy Schwartz
+NER_PERSON: Jason Carreira
+NER_PERSON: Kevin Smith
+NER_PERSON: Petr Gebauer
+NER_PERSON: Lisa Seacat DeLuca
+NER_PERSON: Steven Worley
+NER_PERSON: Peter Snyder
+NER_PERSON: David Lutterkort
+NER_PERSON: Jason Plurad
+NER_PERSON: Eli Levine
+NER_PERSON: Robert Kinley
+NER_PERSON: James E. King III
+NER_PERSON: Robert Deeter
+NER_PERSON: Chris Drome
+NER_PERSON: Andy Heninger
+NER_PERSON: Prajwal Rao
+NER_PERSON: David Leo Wright Hall
+NER_PERSON: Senaka Fernando
+NER_PERSON: Brett McLaughlin
+NER_PERSON: Paul Kehrer
+NER_PERSON: Anne Yu
+NER_PERSON: Scott Nicklous
+NER_PERSON: Daniel Cunha
+NER_PERSON: Bernhard Messer
+NER_PERSON: Jesse
+NER_PERSON: Jim Jagielski
+NER_PERSON: Kevin Radke
+NER_PERSON: Robert S. Sfeir
+NER_PERSON: Carlos Alberto Villegas Fonseca
+NER_PERSON: Mark R. Hinkle
+NER_PERSON: Jim Challenger
+NER_PERSON: Vincent Bray
+NER_PERSON: Peter Karich
+NER_PERSON: Min-Seok Kim
+NER_PERSON: Paul Nicolucci
+NER_PERSON: Bruno Demion
+NER_PERSON: Peter P. Eacmen III
+NER_PERSON: Rob Vesse
+NER_PERSON: Matthew Foley
+NER_PERSON: William Tam
+NER_PERSON: Thomas Cram
+NER_PERSON: Chris Richardson
+NER_PERSON: Martin Kleppmann
+NER_PERSON: Timothy
+NER_PERSON: John Ross
+NER_PERSON: Kenneth William Krugler
+NER_PERSON: Li Yi Lei
+NER_PERSON: Alex Gaynor
+NER_PERSON: John Embretsen
+NER_PERSON: Graham Gear
+NER_PERSON: Michael Kostrzewa
+NER_PERSON: Antonio Gomes Rodrigues
+NER_PERSON: Felipe Oliveira
+NER_PERSON: Robert Casties
+NER_PERSON: Roger Schildmeijer
+NER_PERSON: Martin Cooper
+NER_PERSON: Simon Metson
+NER_PERSON: Sam Park
+NER_PERSON: Alexander Bell
+NER_PERSON: Thomas D'Silva
+NER_PERSON: Jason Letourneau
+NER_PERSON: Geoffrey Martin Winn
+NER_PERSON: Sarah McNamara
+NER_PERSON: Robert Fallows
+NER_PERSON: Morris Hicks
+NER_PERSON: David Barth
+NER_PERSON: Jon Rose
+NER_PERSON: Joseph E Bergmark
+NER_PERSON: Craig Chasseur
+NER_PERSON: Rich Newcomb
+NER_PERSON: Otto van der Schaaf
+NER_PERSON: Alex Huang
+NER_PERSON: Finn Bock
+NER_PERSON: Erik Eduardo Bengtson
+NER_PERSON: Jungryong Lee
+NER_PERSON: Kevin Minder
+NER_PERSON: Liu Zhe
+NER_PERSON: Nathan Kurz
+NER_PERSON: Jason Gustafson
+NER_PERSON: Payne incubator,
+NER_PERSON: Andrei Shakirin
+NER_PERSON: Matt Post
+NER_PERSON: Anthony Molinaro
+NER_PERSON: Shi Lu
+NER_PERSON: Jay McHugh
+NER_PERSON: Gerald Müllan
+NER_PERSON: Andrew C. Oliver
+NER_PERSON: Jon Haddad
+NER_PERSON: James "Chuck" Williams
+NER_PERSON: Bob Hansen
+NER_PERSON: Luciano Resende
+NER_PERSON: Jerry O. Sy
+NER_PERSON: Tyler Bui-Palsulich
+NER_PERSON: Toivo Adams
+NER_PERSON: Antonio David Pérez Morales
+NER_PERSON: Eric Cholet
+NER_PERSON: Neil Griffin
+NER_PERSON: Edna Morales
+NER_PERSON: Fred Moyer
+NER_PERSON: Stephen Gilson
+NER_PERSON: Igor Katkov
+NER_PERSON: Jose A. Fernandez
+NER_PERSON: Junting Wang
+NER_PERSON: Xiaoyu Wang
+NER_PERSON: Leo Sutic
+NER_PERSON: Sam Tunnicliffe
+NER_PERSON: Kevin Joseph Menard, Jr.
+NER_PERSON: Jean T. Anderson
+NER_PERSON: Shannon
+NER_PERSON: Vincent Siveton
+NER_PERSON: Todd Lipcon
+NER_PERSON: Dennis Du Krøger
+NER_PERSON: Chris Hillery
+NER_PERSON: Tim Miller
+NER_PERSON: Bill Schindler
+NER_PERSON: Daniel Russ
+NER_PERSON: Charles Duffy
+NER_PERSON: Gil
+NER_PERSON: Andrew Hartnett
+NER_PERSON: Alan Burlison
+NER_PERSON: Peter Courcoux
+NER_PERSON: Antoine Duprat
+NER_PERSON: Josh Wills
+NER_PERSON: Carl Harris
+NER_PERSON: Bryan Call
+NER_PERSON: Di Spaltro
+NER_PERSON: Mikhail Antonov
+NER_PERSON: Bruce Barkstrom
+NER_PERSON: Ralph Su
+NER_PERSON: markee174
+NER_PERSON: Jay Sen
+NER_PERSON: Shawn McKinney
+NER_PERSON: John Zhuge
+NER_PERSON: James Bognar
+NER_PERSON: Edward M Armstrong
+NER_PERSON: Daniel Danilatos
+NER_PERSON: Barbara Malta Gomes
+NER_PERSON: Jesse Wilson
+NER_PERSON: Robert Kowalski
+NER_PERSON: Abraham Elmahrek
+NER_PERSON: John Snelson
+NER_PERSON: Steven Shaw
+NER_PERSON: Chris Waring
+NER_PERSON: Nixon Rodrigues
+NER_PERSON: John T Green
+NER_PERSON: Francois Meillet
+NER_PERSON: Peter Ledbrook
+NER_PERSON: Christian Mueller
+NER_PERSON: Christopher Douglas
+NER_PERSON: Bob McWhirter
+NER_PERSON: David Parsons
+NER_PERSON: Erik Hatcher
+NER_PERSON: Brady Allen Johnson
+NER_PERSON: John Kelly
+NER_PERSON: Robert Levas
+NER_PERSON: Marc Prud'hommeaux
+NER_PERSON: Christian Moen
+NER_PERSON: Martin Sebor
+NER_PERSON: David Reiss
+NER_PERSON: Gregory Monroe
+NER_PERSON: Stephen Haberman
+NER_PERSON: Simon Nash
+NER_PERSON: Mark Struberg
+NER_PERSON: Christian Egli
+NER_PERSON: Joel Hawkins
+NER_PERSON: Paul
+NER_PERSON: Beth Finnegan
+NER_PERSON: Gordon Smith
+NER_PERSON: Andrew Kaplanov
+NER_PERSON: Dawid Weiss
+NER_PERSON: Helen Xu
+NER_PERSON: Jeremy Daggett
+NER_PERSON: Brian Murphy
+NER_PERSON: Tyler Lee Hobbs
+NER_PERSON: Ahmad Emneina
+NER_PERSON: James O'Dell
+NER_PERSON: David Knupp
+NER_PERSON: Raul Benito Garcia
+NER_PERSON: Donald Woods
+NER_PERSON: Yiqun Lin
+NER_PERSON: Mark Chmarny
+NER_PERSON: Harper
+NER_PERSON: Darin J incubator,
+NER_PERSON: David Newton
+NER_PERSON: David Slaughter
+NER_PERSON: Michael Ryan
+NER_PERSON: Juan Nunez Jaramillo
+NER_PERSON: Michael Turyn
+NER_PERSON: Daniel Lydick
+NER_PERSON: Richard Benjamin Knoll
+NER_PERSON: Paul J. Reder
+NER_PERSON: Martin Tzvetanov Grigorov
+NER_PERSON: Hugo Trippaers
+NER_PERSON: Kamesh J subversion-pmc,
+NER_PERSON: Phil Harvey
+NER_PERSON: Rupert Smith
+NER_PERSON: Jeromy Evans
+NER_PERSON: Rene Fernando Barraza
+NER_PERSON: Rafael Bronzeri
+NER_PERSON: Kenneth Baker
+NER_PERSON: Ross Allen
+NER_PERSON: Gerhard Petracek apsite,
+NER_PERSON: James McCoy
+NER_PERSON: Steven G. Tocco
+NER_PERSON: Peter Kelly
+NER_PERSON: David Marston
+NER_PERSON: Patrick Edward Lapus Villacorta
+NER_PERSON: Richard Feit
+NER_PERSON: Ask Bjørn Hansen
+NER_PERSON: Allen Brookes
+NER_PERSON: John Thorhauer
+NER_PERSON: Ryan Willoughby
+NER_PERSON: Ben Calegari
+NER_PERSON: John JB Brock
+NER_PERSON: Dave Irving
+NER_PERSON: Aaron Anderson
+NER_PERSON: Andrea Patricelli
+NER_PERSON: Christian Kaltepoth
+NER_PERSON: Paul Zimdars
+NER_PERSON: Claude Bates
+NER_PERSON: Edward
+NER_PERSON: Dan Kirkwood
+NER_PERSON: Justin Erenkrantz
+NER_PERSON: Hans Gilde
+NER_PERSON: Jeffrey T. Zemerick
+NER_PERSON: Nicholas Kwiatkowski
+NER_PERSON: Michael Mior
+NER_PERSON: Joe Spisak
+NER_PERSON: Michael Melhem
+NER_PERSON: John Burwell
+NER_PERSON: Leo Neumeyer
+NER_PERSON: João Pedro Martins Fernandes
+NER_PERSON: Aaron Smuts
+NER_PERSON: Doug Service
+NER_PERSON: Geoffrey Alexander Howard
+NER_PERSON: Roy Wood
+NER_PERSON: Mikhail Markov
+NER_PERSON: Brian Spector
+NER_PERSON: Ryan
+NER_PERSON: Jeff Holoman
+NER_PERSON: Andrew Wetmore
+NER_PERSON: John Hewson
+NER_PERSON: Andrew Bayer
+NER_PERSON: Lance Lavandowska
+NER_PERSON: Brent Atkinson
+NER_PERSON: Karl Pauls
+NER_PERSON: George
+NER_PERSON: Di Li
+NER_PERSON: Andrew Schwartzmeyer
+NER_PERSON: Michelle Beard
+NER_PERSON: George Aroush
+NER_PERSON: Wilder Rodrigues
+NER_PERSON: William Guo
+NER_PERSON: Valentin Valchev
+NER_PERSON: Guy
+NER_PERSON: Dennis Cook
+NER_PERSON: Jessica Wang
+NER_PERSON: Martin Veith
+NER_PERSON: Nathanael P Smith
+NER_PERSON: Jon Deron Eriksson
+NER_PERSON: De Bin
+NER_PERSON: Richard Frovarp
+NER_PERSON: Susan Wu
+NER_PERSON: John D. Ament
+NER_PERSON: Doug Arthur
+NER_PERSON: Bruno D'Avonzo
+NER_PERSON: Alan Woodward
+NER_PERSON: Michael Park
+NER_PERSON: Li Feng Wang
+NER_PERSON: Lyndon Adams
+NER_PERSON: Martin Marinschek
+NER_PERSON: Prescott Nasser
+NER_PERSON: Diane Smith
+NER_PERSON: Andrew Gatford
+NER_PERSON: Dick Groskamp
+NER_PERSON: Alexey Ivanov
+NER_PERSON: Clarence Guo
+NER_PERSON: Jeffrey Zhong
+NER_PERSON: Samuel James Corbett
+NER_PERSON: Adam Berry
+NER_PERSON: Dennis Kubes
+NER_PERSON: Ravi Prakash Palacherla
+NER_PERSON: Gyewon Lee
+NER_PERSON: Bruce J Schuchardt
+NER_PERSON: Jay Kreps
+NER_PERSON: John Kinsella
+NER_PERSON: Lisa Owen
+NER_PERSON: Sean Schulte
+NER_PERSON: Dana J Freeborn
+NER_PERSON: Dan Markham
+NER_PERSON: Danese Cooper
+NER_PERSON: Thomas Johnson
+NER_PERSON: Sue Lockwood
+NER_PERSON: Andreas Kohn
+NER_PERSON: Mike Edwards
+NER_PERSON: Cam McKenzie
+NER_PERSON: Michael Billau
+NER_PERSON: Bob Nettleton
+NER_PERSON: Nathan Christopher Mittler
+NER_PERSON: Doug Sale
+NER_PERSON: Peter Brown
+NER_PERSON: Josh Juneau
+NER_PERSON: Mike Klaas
+NER_PERSON: Evan Ward
+NER_PERSON: Chris Lalancette
+NER_PERSON: Dave Barnes
+NER_PERSON: Xikui Wang
+NER_PERSON: Michael Jordan
+NER_PERSON: Jesse Stockall
+NER_PERSON: Daniel Lemke
+NER_PERSON: Szehon Ho
+NER_PERSON: David Carlin
+NER_PERSON: Julia Wang
+NER_PERSON: Ricky Nguyen
+NER_PERSON: Greg Senia
+NER_PERSON: Aranda Delgado
+NER_PERSON: Pei Chen ctakes-pmc,
+NER_PERSON: Marc Schaaf
+NER_PERSON: James Peach
+NER_PERSON: Alexander Lachlan Mclintock
+NER_PERSON: David Kimura
+NER_PERSON: Christopher J. Davis
+NER_PERSON: Erik Krogen
+NER_PERSON: Sangwook Kim
+NER_PERSON: Thomas Jackson
+NER_PERSON: Sean O'Callaghan
+NER_PERSON: Fred Zhang
+NER_PERSON: Eric Avdey
+NER_PERSON: YiZhi Liu
+NER_PERSON: Ross Clewley
+NER_PERSON: Francis Chuang
+NER_PERSON: Ramirez
+NER_PERSON: Robert Dionne
+NER_PERSON: Christine Li
+NER_PERSON: Sergio Peña
+NER_PERSON: David Viner
+NER_PERSON: Steven Dolg
+NER_PERSON: Valentin Kulichenko
+NER_PERSON: Tom Copeland
+NER_PERSON: Jeffrey Heifetz
+NER_PERSON: Jacky Wang
+NER_PERSON: Werner Keil
+NER_PERSON: Chris Trezzo
+NER_PERSON: George Schneider
+NER_PERSON: Robert Scholte
+NER_PERSON: Jonathan Hurley
+NER_PERSON: Pierre De Rop
+NER_PERSON: Kay Schenk
+NER_PERSON: Maximilian Berger
+NER_PERSON: Lili Ma
+NER_PERSON: Sheng Wu
+NER_PERSON: Michael Semb Wever
+NER_PERSON: Stephen Kitt
+NER_PERSON: Jimmy Xiang
+NER_PERSON: David Harkness
+NER_PERSON: Gang Wang
+NER_PERSON: Jim Moore
+NER_PERSON: John Morrison
+NER_PERSON: Brandon Rhys DeVries
+NER_PERSON: Chris Williams
+NER_PERSON: Roger Lee Whitcomb
+NER_PERSON: Alexander Klimetschek
+NER_PERSON: Steven M. Cohen
+NER_PERSON: Yuliya Feldman
+NER_PERSON: Steve Blackmon
+NER_PERSON: Robert Munteanu
+NER_PERSON: Juan Yu
+NER_PERSON: William Mitchell
+NER_PERSON: Chris Goffinet
+NER_PERSON: Jeff Boothe
+NER_PERSON: Pete Kazmier
+NER_PERSON: Alex Dettinger
+NER_PERSON: Gregory Chase geode-pmc,
+NER_PERSON: Jeremy Dyer
+NER_PERSON: Bryan Higgins
+NER_PERSON: Andrew Borley
+NER_PERSON: Igor Fedorenko
+NER_PERSON: Stan
+NER_PERSON: Gregory D. Reddin
+NER_PERSON: Damon Courtney
+NER_PERSON: Brian DePradine
+NER_PERSON: Billy Webb
+NER_PERSON: Frank Bille
+NER_PERSON: Martin Koci
+NER_PERSON: Henri Biestro
+NER_PERSON: Di Sabatino Di Diodoro
+NER_PERSON: Christian Carlow
+NER_PERSON: Nick Reich
+NER_PERSON: Ken Gilmer
+NER_PERSON: Paul Lindner
+NER_PERSON: Julie E. MacNaught
+NER_PERSON: Yuri Zelikov
+NER_PERSON: Arthur Wiedmer
+NER_PERSON: Daniel Jue
+NER_PERSON: Mitch Schussler
+NER_PERSON: Curtis
+NER_PERSON: Frank McQuillan
+NER_PERSON: Michael Nunez
+NER_PERSON: Chunling Wang
+NER_PERSON: Ben Collins-Sussman
+NER_PERSON: Donald Kennedy
+NER_PERSON: Garrett Wu
+NER_PERSON: E W H Huelsmann
+NER_PERSON: Sahaya Andrews
+NER_PERSON: Alex Deparvu
+NER_PERSON: Fred Oliver
+NER_PERSON: Thomas Becker
+NER_PERSON: Hugo Da Cruz Louro
+NER_PERSON: Mike Van
+NER_PERSON: Mikhail Khludnev
+NER_PERSON: Mark Wagner
+NER_PERSON: Jerry Lee
+NER_PERSON: Christopher Elkins
+NER_PERSON: Martin Toepfer
+NER_PERSON: Assaf Arkin
+NER_PERSON: Jose Morales Martinez
+NER_PERSON: Ernesto
+NER_PERSON: Chen Li asterixdb-pmc,
+NER_PERSON: Marc
+NER_PERSON: Mark
+NER_PERSON: David Valeri
+NER_PERSON: Eric Woods
+NER_PERSON: Elena Litani
+NER_PERSON: Herbert Dürr
+NER_PERSON: Stanley
+NER_PERSON: Benjamin Young
+NER_PERSON: Glen Daniels
+NER_PERSON: Jesse Kuhnert
+NER_PERSON: Will Schipp
+NER_PERSON: Helma Van Der Linden
+NER_PERSON: Rod Simpson
+NER_PERSON: James Thornton
+NER_PERSON: Aaron Fabbri
+NER_PERSON: Wu Yue Hao
+NER_PERSON: Jonathan Kelly
+NER_PERSON: Paul Irwin
+NER_PERSON: Jim Hurley
+NER_PERSON: Jason E Tedor
+NER_PERSON: Juergen Hoffmann
+NER_PERSON: Brent Worden
+NER_PERSON: Scott Boag
+NER_PERSON: Steve Loughran
+NER_PERSON: Peter Hartmann
+NER_PERSON: Mark Koudritsky
+NER_PERSON: Matt
+NER_PERSON: Tony Kurc
+NER_PERSON: Bill Cole
+NER_PERSON: Andrea Cosentino
+NER_PERSON: Shawn Heisey
+NER_PERSON: Roger Shi
+NER_PERSON: Richard McKnight
+NER_PERSON: Keith Wannamaker
+NER_PERSON: Pablo Ojanguren
+NER_PERSON: Robert Charles Matthews
+NER_PERSON: Brian Wickman
+NER_PERSON: Eric Sammer
+NER_PERSON: Simone Gianni
+NER_PERSON: Richter
+NER_PERSON: Michael Cayanan
+NER_PERSON: Tony Chemit
+NER_PERSON: Jeff Feng
+NER_PERSON: Jun Wu
+NER_PERSON: Benjamin Hindman
+NER_PERSON: Mark Phippard
+NER_PERSON: Henry Stern
+NER_PERSON: Gary M. VanMatre
+NER_PERSON: Scott Wilson
+NER_PERSON: Peter Scanlon
+NER_PERSON: Angelo van der Sijpt
+NER_PERSON: Daniel O. Becker
+NER_PERSON: James Goodwill
+NER_PERSON: Nigel Daley
+NER_PERSON: Alex Polvi
+NER_PERSON: David Nuescheler
+NER_PERSON: David Lyle incubator,
+NER_PERSON: Antonio Gallardo Rivera
+NER_PERSON: Huw Roberts
+NER_PERSON: Simon Brouwer
+NER_PERSON: Justin Mclean
+NER_PERSON: Matthew Schmidt
+NER_PERSON: Paul Franklin McMahan
+NER_PERSON: Carlos Sierra Andrés
+NER_PERSON: Geir Magnusson Jr apsite,
+NER_PERSON: Henry Saputra
+NER_PERSON: Henry Robinson
+NER_PERSON: Yuri Dario
+NER_PERSON: Joseph Eckard
+NER_PERSON: Arnaud Simon
+NER_PERSON: Steven M. Milek
+NER_PERSON: Sean R. Owen
+NER_PERSON: Boris Galitsky
+NER_PERSON: Ian Cunningham
+NER_PERSON: Art Welch
+NER_PERSON: Yuan Tang incubator,
+NER_PERSON: Frank Aaron Peeler
+NER_PERSON: George Harley
+NER_PERSON: Joseph Southwell
+NER_PERSON: Persia Aziz
+NER_PERSON: Robert
+NER_PERSON: Hamilton Verissimo DeOliveira
+NER_PERSON: Ming Ma
+NER_PERSON: Robert Davies
+NER_PERSON: Scott Aslan
+NER_PERSON: Scott Alan Leberknight
+NER_PERSON: Peter Nevermann
+NER_PERSON: Jacob Danner
+NER_PERSON: Wang Sheng
+NER_PERSON: Joan Touzet
+NER_PERSON: Olivier Nouguier
+NER_PERSON: Roger Sandvik
+NER_PERSON: Anne Kathrine Petteroe
+NER_PERSON: Rafael Weingärtner
+NER_PERSON: Martin Zaun
+NER_PERSON: Sebastian Nagel
+NER_PERSON: Erin A. Boyd
+NER_PERSON: Jim Gomes
+NER_PERSON: Kenton Taylor
+NER_PERSON: Derek Dagit
+NER_PERSON: Joachim Sauer
+NER_PERSON: Jeff Hagelberg
+NER_PERSON: Don Coleman
+NER_PERSON: John Xing
+NER_PERSON: Brian Eaton
+NER_PERSON: Jason S. Lingohr
+NER_PERSON: David Ash
+NER_PERSON: Olga Tkachova
+NER_PERSON: Jack
+NER_PERSON: Vincent Hou
+NER_PERSON: Jacob Kjome
+NER_PERSON: Jose Barragan Andrade
+NER_PERSON: Kumar Singh
+NER_PERSON: Justin Leet
+NER_PERSON: Andrew R. Jaquith
+NER_PERSON: Peter Haumer
+NER_PERSON: Jian Wang
+NER_PERSON: Greg Bowyer
+NER_PERSON: Andrew Gumbrecht
+NER_PERSON: Philip M. Gollucci
+NER_PERSON: Craig Doremus
+NER_PERSON: Aaron Kimball
+NER_PERSON: Michael Kurz
+NER_PERSON: Eric Barboni
+NER_PERSON: Sean David Cooper
+NER_PERSON: Paul Sharples
+NER_PERSON: Lei Chang
+NER_PERSON: Sean Mackrory
+NER_PERSON: Eric Lemings
+NER_PERSON: Marc Slemko
+NER_PERSON: Benjamin Bois
+NER_PERSON: John Russell
+NER_PERSON: Ryan Ackley
+NER_PERSON: Kevin Turner
+NER_PERSON: Sung Lim
+NER_PERSON: Jeremias Werner
+NER_PERSON: Sean Legassick
+NER_PERSON: Michael Nachbaur
+NER_PERSON: Anita Jebaraj
+NER_PERSON: Tom Morton
+NER_PERSON: Peter Fischer incubator,
+NER_PERSON: Alex Petrov
+NER_PERSON: Kathleen Ting
+NER_PERSON: Eugene Koifman
+NER_PERSON: Tom Chan
+NER_PERSON: Abdel Hakim Deneche
+NER_PERSON: Catherine Johnson
+NER_PERSON: Peter Ryder
+NER_PERSON: Benjamin Reed
+NER_PERSON: Matt McCline
+NER_PERSON: Denis Kormalev
+NER_PERSON: Tom Davis
+NER_PERSON: Andy Konwinski
+NER_PERSON: Dan Klco
+NER_PERSON: Kenneth Knowles
+NER_PERSON: Jordan Zimmerman
+NER_PERSON: Kenneth Mcfarland
+NER_PERSON: Eric Payne
+NER_PERSON: Stephen K. Brewin
+NER_PERSON: Chris Lambertus
+NER_PERSON: Michael W. Dodge
+NER_PERSON: Roy Lenferink
+NER_PERSON: Alex Harui
+NER_PERSON: Alex Guziel
+NER_PERSON: Daniel Everett Jemiolo
+NER_PERSON: Christopher Liu
+NER_PERSON: Thomas Mueller
+NER_PERSON: Sam Berlin
+NER_PERSON: Doron Cohen
+NER_PERSON: Manuel
+NER_PERSON: Michael Clarke
+NER_PERSON: Lukas Theussl
+NER_PERSON: Manuel Innerhofer
+NER_PERSON: Mark Dwayne Womack
+NER_PERSON: Kevin Risden
+NER_PERSON: Alexander Simon
+NER_PERSON: Kurt Stam
+NER_PERSON: Andrew Eberbach
+NER_PERSON: Joel Bernstein
+NER_PERSON: Alex Ford
+NER_PERSON: Yasser Zamani
+NER_PERSON: Thomas Neidhart
+NER_PERSON: Kirk Pepperdine
+NER_PERSON: Zhang Fan
+NER_PERSON: Michael Fiedler
+NER_PERSON: Chen Liang
+NER_PERSON: Daniel Sun
+NER_PERSON: Frank Scholten
+NER_PERSON: Timothy Chen drill-pmc,
+NER_PERSON: Stephen Henson
+NER_PERSON: Michael Jakl
+NER_PERSON: Marc Le Bihan
+NER_PERSON: Graham Charters
+NER_PERSON: Ted Ross
+NER_PERSON: Mark Wall
+NER_PERSON: Michael Garski
+NER_PERSON: Vincent Salvato
+NER_PERSON: Jason Edward Stewart
+NER_PERSON: Mark Orciuch
+NER_PERSON: Ted Steen
+NER_PERSON: George Reyes
+NER_PERSON: Jimmy Da
+NER_PERSON: Li Xu
+NER_PERSON: William Victor Mote
+NER_PERSON: Dieter von Holten
+NER_PERSON: E. Hamilton
+NER_PERSON: Nicholas Whitehead
+NER_PERSON: Mikhail Mazursky
+NER_PERSON: Richard McGuire
+NER_PERSON: Lin Gang Deng
+NER_PERSON: Dave Birdsall
+NER_PERSON: Kevin Clark
+NER_PERSON: Lynn Gallinat
+NER_PERSON: Andrew Grieve
+NER_PERSON: Robert Newson
+NER_PERSON: Shaohui Liu
+NER_PERSON: Kelly Campbell
+NER_PERSON: Thomas Spiegl
+NER_PERSON: James S. Dixson III
+NER_PERSON: Jeff Elsloo
+NER_PERSON: Andre Fischer incubator,
+NER_PERSON: Rob Weir
+NER_PERSON: Hans Granqvist
+NER_PERSON: Jason Hunter
+NER_PERSON: Timothy Dawson
+NER_PERSON: Andy Jefferson
+NER_PERSON: Chen Lin ctakes-pmc, ctakes,
+NER_PERSON: James Waldo
+NER_PERSON: Michael Goulish
+NER_PERSON: Daniel Quellhorst
+NER_PERSON: Bernard Metzler
+NER_PERSON: Tinny Ng
+NER_PERSON: Venugopal Rao K  
+NER_PERSON: Keith Turner
+NER_PERSON: Tim Thorpe
+NER_PERSON: Bruno Pacola
+NER_PERSON: Rogers
+NER_PERSON: Chris Harris
+NER_PERSON: Boris Shkolnik
+NER_PERSON: Victor Lee
+NER_PERSON: John Bass
+NER_PERSON: Colin
+NER_PERSON: Adrian Trenaman
+NER_PERSON: Daniel Lopez Ridruejo
+NER_PERSON: Yishay Weiss
+NER_PERSON: Claude Warren jena-pmc,
+NER_PERSON: Stephen Poole
+NER_PERSON: Thomas Cunningham
+NER_PERSON: Stephen Fink
+NER_PERSON: John Pullokkaran
+NER_PERSON: Frank
+NER_PERSON: Lisa Martin
+NER_PERSON: Andrew Onischuk
+NER_PERSON: Bruno Flávio
+NER_PERSON: Claude Brisson
+NER_PERSON: Pei He
+NER_PERSON: Simon IJskes
+NER_PERSON: David Jencks
+NER_PERSON: Adam Taft
+NER_PERSON: Jay Zhuang
+NER_PERSON: Doc Schneider
+NER_PERSON: Gomez Henri
+NER_PERSON: James R. Taylor
+NER_PERSON: David Van Couvering
+NER_PERSON: Denis A. Magda
+NER_PERSON: Sean McCleese
+NER_PERSON: Brock Noland
+NER_PERSON: Kent Åberg
+NER_PERSON: Jeff Zhang
+NER_PERSON: Angela Schreiber
+NER_PERSON: Mike Perham
+NER_PERSON: Tom Amiro
+NER_PERSON: Eric Bachard
+NER_PERSON: Clinton
+NER_PERSON: Ingrid von der Mehden
+NER_PERSON: John Hardin
+NER_PERSON: Francis Chan
+NER_PERSON: Stephen McConnell
+NER_PERSON: David
+NER_PERSON: Don Samisa Abeysinghe
+NER_PERSON: Scott Chen
+NER_PERSON: John Hawkins
+NER_PERSON: Neil C Smith
+NER_PERSON: Daniel Takamori
+NER_PERSON: Jason Smith
+NER_PERSON: Olga Natkovich
+NER_PERSON: Colm O hEigeartaigh
+NER_PERSON: Yu Liu
+NER_PERSON: Laura Carriere
+NER_PERSON: Daniel Adams
+NER_PERSON: Junggil Lee
+NER_PERSON: Randall Leeds
+NER_PERSON: Marcus Christie
+NER_PERSON: Chris Jack
+NER_PERSON: Michael Miklavcic
+NER_PERSON: Robb Penoyer
+NER_PERSON: Amy Bai
+NER_PERSON: Mahmoud Ali Neto
+NER_PERSON: Adrian Antal
+NER_PERSON: Daniel Hecht
+NER_PERSON: Vladimir Sitnikov
+NER_PERSON: Trieloff
+NER_PERSON: Felix Schueler
+NER_PERSON: Jacob Wilder
+NER_PERSON: Philip Brondsema
+NER_PERSON: Jack Repenning
+NER_PERSON: Darrell DeBoer
+NER_PERSON: Todd Tannenbaum
+NER_PERSON: Mayya Sharipova
+NER_PERSON: Andreas Hartmann
+NER_PERSON: Devdeep Singh
+NER_PERSON: Amanda Waite
+NER_PERSON: Chuck Litzell
+NER_PERSON: Patrick D. Hunt
+NER_PERSON: Peter Lin
+NER_PERSON: Scott Guthmann
+NER_PERSON: Christopher John Male
+NER_PERSON: Donald McKinnon Simpson
+NER_PERSON: Marc Portier
+NER_PERSON: David Laurance
+NER_PERSON: Peter Firmstone
+NER_PERSON: Daniel C. Weeks
+NER_PERSON: Paul Hammant
+NER_PERSON: Paul Plaquette
+NER_PERSON: Peter Schmidt
+NER_PERSON: Sergei Egorov
+NER_PERSON: Gary Martin
+NER_PERSON: Simon Steiner
+NER_PERSON: Brent Ulbricht
+NER_PERSON: Peter Linnell
+NER_PERSON: Danny Angus
+NER_PERSON: Patrick Murphy
+NER_PERSON: Alberto Massari
+NER_PERSON: Pete Muir
+NER_PERSON: Michael Starch
+NER_PERSON: Randy Abernethy
+NER_PERSON: Ian Boston
+NER_PERSON: Anand Avati
+NER_PERSON: Ahmed Radwan
+NER_PERSON: Romain Manni-Bucau
+NER_PERSON: Ryan Merriman
+NER_PERSON: David Wang
+NER_PERSON: Karl Fogel
+NER_PERSON: Michele Mazzucco
+NER_PERSON: Robert Baker Douglas
+NER_PERSON: Brian Keith Wallace
+NER_PERSON: Clifford Jansen
+NER_PERSON: Chris Pepper
+NER_PERSON: Ivan Nemeth
+NER_PERSON: Jinho Kim
+NER_PERSON: Martin Holz
+NER_PERSON: Juan José van der Linden
+NER_PERSON: Feng Ma
+NER_PERSON: Boris Schrijver
+NER_PERSON: Shane Bryzak
+NER_PERSON: Christian Kadner
+NER_PERSON: David Cai
+NER_PERSON: David M. Karr
+NER_PERSON: Vladimir Berezniker
+NER_PERSON: Michael James Joyce climate-pmc,
+NER_PERSON: Eric Leleu
+NER_PERSON: Pavel Janík
+NER_PERSON: Russell Sears
+NER_PERSON: Holly Schinsky
+NER_PERSON: Adam R.
+NER_PERSON: Gregory Chanan
+NER_PERSON: Ian Darwin
+NER_PERSON: John Mazzitelli
+NER_PERSON: Roger Meier
+NER_PERSON: Antoine Sabot-Durand
+NER_PERSON: Bingbing Ma
+NER_PERSON: Nathan Bubna
+NER_PERSON: Dennis Hörsch
+NER_PERSON: Jan Kaluža
+NER_PERSON: Ivanov
+NER_PERSON: David Heffelfinger
+NER_PERSON: Qin Liu
+NER_PERSON: Christopher James Blythe
+NER_PERSON: Joel Jacob Koshy
+NER_PERSON: Justin Edelson
+NER_PERSON: Martin Stockhammer
+NER_PERSON: Dan Smith
+NER_PERSON: Paul Yang
+NER_PERSON: Adam Nichols
+NER_PERSON: Ortega
+NER_PERSON: Stephen Wu
+NER_PERSON: David Sean Taylor
+NER_PERSON: Antoine Contal
+NER_PERSON: Paul Merlin
+NER_PERSON: Doug Coker
+NER_PERSON: Nicholas Pentreath
+NER_PERSON: Ming Liu
+NER_PERSON: Javier Candeira
+NER_PERSON: Sean Zhong
+NER_PERSON: Oliver Heger
+NER_PERSON: Werner Dittmann
+NER_PERSON: Ravi Undupitiya
+NER_PERSON: Disheng Su
+NER_PERSON: Jon Schewe
+NER_PERSON: Robin Komiwes
+NER_PERSON: David Tan
+NER_PERSON: David Caruana
+NER_PERSON: Daniel Spiewak
+NER_PERSON: Craig R. McClanahan
+NER_PERSON: David Nalley
+NER_PERSON: Ron Grabowski
+NER_PERSON: Greg Ames
+NER_PERSON: Josh McKenzie
+NER_PERSON: Owen O'Malley
+NER_PERSON: Stuart Swales
+NER_PERSON: Andrew Dzakpasu
+NER_PERSON: Blossom
+NER_PERSON: Yingda
+NER_PERSON: Vladimir Bossicard
+NER_PERSON: Scott Noteboom
+NER_PERSON: Miao Wang
+NER_PERSON: Roberto Salomon
+NER_PERSON: Samuel Andrew McIntyre
+NER_PERSON: Stephen D. Huston
+NER_PERSON: Andrew Palumbo
+NER_PERSON: Christopher Collins
+NER_PERSON: D. Gregory
+NER_PERSON: James Page
+NER_PERSON: Preston Carman
+NER_PERSON: Peter Vary
+NER_PERSON: Daniel Xu
+NER_PERSON: Kevin Godell
+NER_PERSON: Zhang Huang Zhu  
+NER_PERSON: Noble Paul
+NER_PERSON: Nathan
+NER_PERSON: Erik Weber
+NER_PERSON: Louis Ryan
+NER_PERSON: Chris Baynes
+NER_PERSON: John Dennis Casey
+NER_PERSON: Dave Rusek
+NER_PERSON: Xiao-Feng Li
+NER_PERSON: Brent Daniel
+NER_PERSON: Minjie Wang
+NER_PERSON: Curtis William Arnold
+NER_PERSON: Gregory John Wilkins
+NER_PERSON: Andrew Williams
+NER_PERSON: Pierre Smits
+NER_PERSON: Duncan Godwin
+NER_PERSON: Paul Burba
+NER_PERSON: Steven Rowe
+NER_PERSON: Igor Sedukhin
+NER_PERSON: Jeff J. Rodenburg
+NER_PERSON: Paul R. Brown
+NER_PERSON: Kenneth R. Kress
+NER_PERSON: Alice Chen
+NER_PERSON: Antonio Sanso
+NER_PERSON: Anthony Majestro
+NER_PERSON: Fred Juan Diaz
+NER_PERSON: John Hjelmstad
+NER_PERSON: Kenneth Chan
+NER_PERSON: Amy Roh
+NER_PERSON: David Brosius
+NER_PERSON: Jeffrey Taylor Potts
+NER_PERSON: Bilung Lee
+NER_PERSON: Andy Gibson
+NER_PERSON: Ryan Ollos
+NER_PERSON: Vincent Massol
+NER_PERSON: Julian Sedding
+NER_PERSON: Roberts
+NER_PERSON: Igor Vaynberg
+NER_PERSON: Chris Laprun
+NER_PERSON: Billy Liu
+NER_PERSON: Mark Martinec
+NER_PERSON: Michael Concini
+NER_PERSON: Simon Weller
+NER_PERSON: Chris Suich
+NER_PERSON: Casey Stella
+NER_PERSON: Tim McConnell
+NER_PERSON: Ryan Rawson
+NER_PERSON: David Glazer
+NER_PERSON: Scott Creeley
+NER_PERSON: Ken Howe
+NER_PERSON: Colin McCabe
+NER_PERSON: Beth Lavender
+NER_PERSON: Lance
+NER_PERSON: Roger John O'Hara
+NER_PERSON: Daniel Shahaf
+NER_PERSON: Chris Darroch
+NER_PERSON: David Balmain
+NER_PERSON: Mike Liddell
+NER_PERSON: Aaron Davidson
+NER_PERSON: Morris Kwan
+NER_PERSON: Bob Paulin
+NER_PERSON: Joseph C. Jacob
+NER_PERSON: John Szakmeister
+NER_PERSON: Christopher Byrne
+NER_PERSON: Nikolai Stoilov
+NER_PERSON: Michael Ray Gentry
+NER_PERSON: Jacques Nadeau
+NER_PERSON: Terry Ellison
+NER_PERSON: Xinyu Liu
+NER_PERSON: Eugene Kirpichov
+NER_PERSON: Tim Whittington
+NER_PERSON: Sean Ahn
+NER_PERSON: Dennis Fusaro
+X-Parsed-By: org.apache.tika.parser.CompositeParser
+X-Parsed-By: org.apache.tika.parser.ner.NamedEntityParser
+resourceName: committer-index.html

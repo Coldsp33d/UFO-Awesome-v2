@@ -1,0 +1,48 @@
+Content-Type: text/html; charset=UTF-8
+NER_DATE: 2009
+NER_DATE: 1942
+NER_DATE: 2018
+NER_DATE: 1963
+NER_DATE: 1663
+NER_DATE: 1982
+NER_DATE: 1979
+NER_LOCATION: Gonville
+NER_LOCATION: Einstein
+NER_LOCATION: London
+NER_LOCATION: Cambridge
+NER_LOCATION: Santa Cruz
+NER_ORGANIZATION: Leiden University
+NER_ORGANIZATION: NASA
+NER_ORGANIZATION: CBE
+NER_ORGANIZATION: Brief History of Time
+NER_ORGANIZATION: University of California
+NER_ORGANIZATION: Caius College
+NER_ORGANIZATION: Royal Society
+NER_ORGANIZATION: Stephen Hawking Home About Stephen The Computer Stephen
+NER_ORGANIZATION: US National Academy of Science
+NER_ORGANIZATION: Department of Applied Mathematics
+NER_ORGANIZATION: ESA
+NER_ORGANIZATION: The Universe
+NER_ORGANIZATION: Sally Tsui Wong-Avery Director of Research
+NER_ORGANIZATION: the University of Cambridge
+NER_ORGANIZATION: Theoretical Physics
+NER_ORGANIZATION: Baby Universe
+NER_ORGANIZATION: Briefer History of Time
+NER_ORGANIZATION: Cambridge Lectures Publications
+NER_PERSON: Einstein
+NER_PERSON: P. Oesch
+NER_PERSON: D. Magee
+NER_PERSON: Steve Boxall/steveboxall
+NER_PERSON: Dennis Stanton Avery
+NER_PERSON: R. Bouwens
+NER_PERSON: George
+NER_PERSON: Stephen Hawking
+NER_PERSON: Stephen William Hawking
+NER_PERSON: Isaac Newton
+NER_PERSON: Lucy Hawking
+NER_PERSON: Annie
+NER_PERSON: G. Illingworth
+NER_PERSON: Stephen
+NER_PERSON: Stephen Hawking ?
+X-Parsed-By: org.apache.tika.parser.CompositeParser
+X-Parsed-By: org.apache.tika.parser.ner.NamedEntityParser
