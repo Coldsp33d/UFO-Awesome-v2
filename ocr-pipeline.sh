@@ -17,6 +17,6 @@ for f in $( ls $filename_no_extension ); do
     the_file=$(basename $f)
     the_file_ext="${the_file##*.}"
     the_file_noext="${the_file%.*}"
-    convert -density 300 $filename_no_extension/$the_file -depth 8 $filename_no_extension/tiff/$the_file_noext.tif
+    convert -density 300 $filename_no_extension/$the_file -depth 8 -alpha Off -negate $filename_no_extension/tiff/$the_file_noext.tif
     tesseract $filename_no_extension/tiff/$the_file_noext.tif $filename_no_extension/outtxt/$the_file_noext
 done
