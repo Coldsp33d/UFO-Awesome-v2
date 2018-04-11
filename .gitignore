@@ -1,5 +1,11 @@
 # data folders / files
-Data/DEFE_*/
+Data/DEFE-24-1922/tiff/*
+Data/DEFE-24-1924/tiff/*
+Data/DEFE-24-1925/tiff/*
+Data/DEFE-31-172/tiff/*
+Data/DEFE-31-173/tiff/*
+Data/DEFE-31-174/tiff/*
+Data/DEFE-31-175/tiff/*
 Data/scraped*.txt
 
 # Byte-compiled / optimized / DLL files
