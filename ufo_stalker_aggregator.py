@@ -36,7 +36,7 @@ j = j.drop('duration', axis=1)
 # concatenate expanded demographics and sightings data with the original dataframe 
 df = pd.concat([df, i, j], axis=1)
 # remove state if the country is not the US
-df['state'] = np.where(df['country'].startswith('United States'), df['state'], np.nan)
+df['state'] = np.where(df['country'].str.startswith('United States'), df['state'], np.nan)
 
 # --- process object and caption data from tika-docker outputs --- #
 # load caption and object files
@@ -50,3 +50,5 @@ v.index = v['url'].str.split('/', n=4).str[4].str.split('_').str[0].values
 v = v.groupby(level=0, sort=False).agg(pd.Series.tolist)
 # merge event data with obeject and caption data
 df = df.merge(v, left_index=True, right_index=True, how='left')
+
+df.to_csv('Data/ufo_stalker.csv')
