@@ -51,13 +51,13 @@ def getElements(pageNo):
         eventData[pageNo]["url"].append(str(href[0].get_attribute("href")))
         write_to_file(imageFile, href[0].get_attribute("href"))
 
-    write_to_file(mediaFile, eventData)
+    write_to_file(mediaFile, json.dumps(eventData))
 
     print(eventData)
 
 def write_to_file(filepath, data):
     with open(filepath, 'a+') as f:
-        f.write(str(data) + '\n')
+        f.write(data + '\n')
 
 chrome_options = Options()
 chrome_options.add_extension('Data/Resources/1.2.6_0.crx') #anonymox
@@ -76,6 +76,7 @@ while cur <= end:
         time.sleep(1)
         getElements(cur)
         cur += 1
+        retries = 0
     except (
         http.client.RemoteDisconnected, 
         IndexError, 
