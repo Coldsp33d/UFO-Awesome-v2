@@ -5,21 +5,27 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.apache.tika.exception.TikaException;
 import org.apache.tika.metadata.Metadata;
 import org.apache.tika.mime.MediaType;
 import org.apache.tika.parser.AbstractParser;
 import org.apache.tika.parser.AutoDetectParser;
 import org.apache.tika.parser.ParseContext;
+import org.apache.tika.parser.ner.NERecogniser;
+import org.apache.tika.parser.ner.corenlp.CoreNLPNERecogniser;
 import org.apache.tika.sax.BodyContentHandler;
 import org.xml.sax.ContentHandler;
 import org.xml.sax.SAXException;
@@ -44,7 +50,10 @@ public class UFOParser extends AbstractParser {
 	private static final Pattern dateOfReportPattern = Pattern.compile("(?m)(^P(\\.)? .+)");
 	private static final Pattern descriptionSightingPattern = Pattern.compile("(?m)(^B(\\.)?) .+");
 	private static final Pattern durationSightingPattern = Pattern.compile("(\\b(\\d{1,2}) (?:MIN(?:S)?|MIN(?:UTES)?|MIND|HOUR(?:S|SEC(?:S)|SECOND(?:S)|DAY(?:S))))");
-
+	private static final String[] shapes = {"BLIMP","BOOMERANG","BULLET","CHEVRON","CIGAR","CIRCLE","CONE","CROSS","CYLINDER","DIAMOND","DISC","DUMBBELL","EGG","FIREBALL","FLASH","MISSILE","OTHER","OVAL","RECTANGULAR","SATURN-LIKE","SPHERE","SQUARE","STAR-LIKE","TEARDROP","TRIANGLE","UNKNOWN","ROUND","BRIGHT","WHITISH","SILVER","LIGHT","RED", "V SHAPED", "GREEN", "RED", "WHITE", "STAR", "HELICOPTER", "REEPPISH", "PINK", "ARC","BUCKET","ORANGE"};
+	private static final Set<String> shapesSet = new HashSet<>(Arrays.asList(shapes));
+	private static final NERecogniser recogniser = new CoreNLPNERecogniser();
+	
 	public Set<MediaType> getSupportedTypes(ParseContext arg0) {
 		return SUPPORTED_TYPES;
 	}
@@ -100,7 +109,7 @@ public class UFOParser extends AbstractParser {
 		List<File> files = getFiles("src//main//resources//NewData//172_Split//out2", false);
 		List<String> type1files = new ArrayList<>();
 		List<String> type2files = new ArrayList<>();
-
+		
 		for (File file : files) {
 			FileInputStream fis = null;
 			try {
@@ -116,8 +125,8 @@ public class UFOParser extends AbstractParser {
 					} else if (data.startsWith("CLASSIFIED")) {
 						type2files.add(file.getName());
 
-						System.out.println("**************");
-						System.out.println(file.getName());
+						//System.out.println("**************");
+						//System.out.println(file.getName());
 
 						String[] globalDate = new String[2];
 						Matcher monthyear = monthYearPattern.matcher(data);
@@ -125,14 +134,14 @@ public class UFOParser extends AbstractParser {
 							String globMonthYear = monthyear.group();
 							globalDate = parseMonthYearFromDocument(globMonthYear);
 						}
-						System.out.println(globalDate[0] + " " + globalDate[1]);
+						//System.out.println(globalDate[0] + " " + globalDate[1]);
 						UFO ufo = new UFO();
 						parseDateTimeDurationOfSighting(data, ufo, globalDate);
 						parseDateOfReport(data, ufo, globalDate);
 						parseDescription(data, ufo);
+						parseLocation(data, ufo);
+						parseShape(data, ufo);
 						System.out.println(ufo);
-						// FileUtils.copyFileToDirectory(file, new
-						// File("src//main//resources//NewData//172_Split//out2"));
 					}
 				}
 			} catch (IOException | TikaException | SAXException e) {
@@ -146,12 +155,24 @@ public class UFOParser extends AbstractParser {
 				}
 			}
 		}
-		System.out.println("Type 1 : " + type1files);
-		System.out.println("Type 2 : " + type2files);
-		System.out.println(type2files.size());
+		//System.out.println("Type 1 : " + type1files);
+		//System.out.println("Type 2 : " + type2files);
+		//System.out.println(type2files.size());
 	}
 
+	private static void parseShape(String data, UFO ufo) {
+		Set<String> dataSet = new HashSet<>(Arrays.asList(data.split(" ")));
+		dataSet.retainAll(shapesSet);
+		ufo.setShape("\"" + StringUtils.join(dataSet, ',') + "\"" );
+	}
 	
+	private static void parseLocation(String data, UFO ufo) {
+		Map<String, Set<String>> keys = recogniser.recognise(data);
+		Set<String> locations = keys.get("LOCATION");
+		if (locations != null && locations.size() > 0)
+			ufo.setLocation("\"" + StringUtils.join(locations, ',') + "\"" );
+	}
+
 	private static void parseDescription(String data, UFO ufo) {
 		Matcher description = descriptionSightingPattern.matcher(data);
 		if (description.find()) {
@@ -167,7 +188,8 @@ public class UFOParser extends AbstractParser {
 			Matcher durationSightingPatternMatcher = durationSightingPattern.matcher(dateTimeDurationLine);
 			if (durationSightingPatternMatcher.find()) {
 				String durationData = durationSightingPatternMatcher.group();
-				ufo.setDuration(durationData.split(" ")[0]);
+				//ufo.setDuration(durationData.split(" ")[0]);
+				ufo.setDuration(durationData);
 			}
 		}
 		UFODate date = parseDate(dateTimeDurationLine, globalDate);
@@ -188,7 +210,7 @@ public class UFOParser extends AbstractParser {
 		UFODate sightingDate = new UFODate();
 		sightingDate.setMonth(globalDate[0] == null ? null : globalDate[0]);
 		sightingDate.setYear(globalDate[1] == null ? null : globalDate[1]);
-		System.out.println(inputLine);
+		//System.out.println(inputLine);
 		if (inputLine != null && !inputLine.isEmpty()) {
 			Matcher datePatternMatcher = datePattern.matcher(inputLine);
 			if (datePatternMatcher.find()) {
