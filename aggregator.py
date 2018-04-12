@@ -128,6 +128,9 @@ df['urls'] = [
 # convert epoch time to datetime
 df['sighted_on'] = pd.to_datetime(df['sighted_on'], errors='coerce', unit='s')
 df['reported_on'] = pd.to_datetime(df['reported_on'], errors='coerce', unit='s')
+# fix shape column
+df['shape'] = df['shape'].str.strip().str.replace(r'(?:,\s*)?N,\s*A', '').str.replace('Rectagular', 'Rectangular')
+df.loc[df['shape'].str.len().eq(0), 'shape'] = np.nan
 # load caption and object files
 cap = pd.read_csv('Data/Resources/cap.txt', header=None, names=['url', 'caption'])
 obj = pd.read_csv('Data/Resources/cap.txt', header=None, names=['url', 'object'])

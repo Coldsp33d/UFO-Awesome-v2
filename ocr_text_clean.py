@@ -6,7 +6,7 @@ punctuation = string.punctuation
 #Spell check done with Peter Norvig's Rule Based Spell Checker
 def words(text): return re.findall(r'\w+', text.lower())
 
-WORDS = Counter(words(open('big.txt').read()))
+WORDS = Counter(words(open('Data/Resoueces/big.txt').read()))
 
 def P(word, N=sum(WORDS.values())):
     "Probability of `word`."
