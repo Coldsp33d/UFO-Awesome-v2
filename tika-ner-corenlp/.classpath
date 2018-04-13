@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/SEM2/CSCI 599- Content Detection &amp; Big data/Assignments/2/commons-csv-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/SEM2/CSCI 599- Content Detection &amp; Big data/Assignments/2/Final/UFO-Very-Awesome.git/branches/vritti-branch/tika-ner/target/tika-app-2.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/SEM2/CSCI 599- Content Detection &amp; Big data/Assignments/2/Final/UFO-Very-Awesome.git/branches/vritti-branch/tika-ner/target/tika-ner-corenlp-addon-1.0-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
