@@ -132,17 +132,11 @@ df['reported_on'] = pd.to_datetime(df['reported_on'], errors='coerce', unit='s')
 df['shape'] = df['shape'].str.strip().str.replace(r'(?:,\s*)?N,\s*A', '').str.replace('Rectagular', 'Rectangular')
 df.loc[df['shape'].str.len().eq(0), 'shape'] = np.nan
 # load caption and object files
-cap = pd.read_csv('Data/Resources/cap.txt', header=None, names=['url', 'caption'])
-obj = pd.read_csv('Data/Resources/cap.txt', header=None, names=['url', 'object'])
-# merge caption and object on URL
-v = cap.merge(obj, on='url').sort_values(by='url')
-# set the index to be the event ID from the url
-v['event_id'] = v['url'].str.split('/', n=4).str[4].str.split('_').str[0].values
-# group by eventID and collapse data into lists of columns
-v = v.groupby('event_id', sort=False).agg(pd.Series.tolist).reset_index()
+cap = pd.read_csv('Data/Resources/cap.txt', usecols=['caption', 'event_id'])
+obj = pd.read_csv('Data/Resources/obj.txt', usecols=['label', 'event_id'])
 # merge event data with obeject and caption data
-df = df.merge(v, on='event_id', how='outer')
+df = df.merge(cap.merge(obj, on='event_id', how='outer'), on='event_id', how='left')
 # save to CSV
-df.to_csv('Data/ufo_stalker.csv')
+df.to_csv('Data/ufo_stalker.csv', compression='gzip', index=False)
 
 
