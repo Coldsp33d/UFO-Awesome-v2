@@ -158,6 +158,7 @@ Will preprocess and join all the intermediate datasets (UFO Stalker data, Britis
 
 ## Part 4 - Tika NER 
 We have used Stanford CORE NLP to get the best NER Results from our UFO Data Set. A new column "ner" has been added to the data set and they correspond to all the named entities found in the description column. The following command can be executed to generate the "ner" columns.
+	
 	java -classpath NERRecognizerUFO.jar;commons-csv-1.4.jar;tika-app-2.0.0-SNAPSHOT.jar;tika-ner-corenlp-addon-1.0-SNAPSHOT-jar-with-dependencies.jar NERRecognizerCustom <path_to_ufo_awesome_v2.csv> <output_path_ufo_awesome_v2_ner.csv>
 
 The tika-ner folder contains the required jars (tika-app and tika-core-nlp) in the target folder. They have been built from the source and would be required for performing named entity recognition on the UFO Data Set. The open nlp models have also been added on to the repository under - org\apache\tika\parser\ner\opennlp.
