@@ -1,12 +1,20 @@
 # data folders / files
-Data/DEFE-24-1922/tiff/*
-Data/DEFE-24-1924/tiff/*
-Data/DEFE-24-1925/tiff/*
-Data/DEFE-31-172/tiff/*
-Data/DEFE-31-173/tiff/*
-Data/DEFE-31-174/tiff/*
-Data/DEFE-31-175/tiff/*
+Data/Resources/ocr-output/DEFE-24-1922/tiff/*
+Data/Resources/ocr-output/DEFE-24-1924/tiff/*
+Data/Resources/ocr-output/DEFE-24-1925/tiff/*
+Data/Resources/ocr-output/DEFE-31-172/tiff/*
+Data/Resources/ocr-output/DEFE-31-173/tiff/*
+Data/Resources/ocr-output/DEFE-31-174/tiff/*
+Data/Resources/ocr-output/DEFE-31-175/tiff/*
+Data/Resources/ocr-output/DEFE-24-1922/*.pdf
+Data/Resources/ocr-output/DEFE-24-1924/*.pdf
+Data/Resources/ocr-output/DEFE-24-1925/*.pdf
+Data/Resources/ocr-output/DEFE-31-172/*.pdf
+Data/Resources/ocr-output/DEFE-31-173/*.pdf
+Data/Resources/ocr-output/DEFE-31-174/*.pdf
+Data/Resources/ocr-output/DEFE-31-175/*.pdf
 Data/scraped*.txt
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
