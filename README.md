@@ -157,13 +157,8 @@ The command
 Will preprocess and join all the intermediate datasets (UFO Stalker data, British UFO data, and UFO Awesome data) and output `Data/ufo_awesome_v2.csv`.
 
 ## Part 4 - Tika NER 
+We have used Stanford CORE NLP to get the best NER Results from our UFO Data Set. A new column "ner" has been added to the data set and they correspond to all the named entities found in the description column. The following command can be executed to generate the "ner" columns.
+	java -classpath NERRecognizerUFO.jar;commons-csv-1.4.jar;tika-app-2.0.0-SNAPSHOT.jar;tika-ner-corenlp-addon-1.0-SNAPSHOT-jar-with-dependencies.jar NERRecognizerCustom <path_to_ufo_awesome_v2.csv> <output_path_ufo_awesome_v2_ner.csv>
+
 The tika-ner folder contains the required jars (tika-app and tika-core-nlp) in the target folder. They have been built from the source and would be required for performing named entity recognition on the UFO Data Set. The open nlp models have also been added on to the repository under - org\apache\tika\parser\ner\opennlp.
-Two batch files have been addded to run NER on http://people.apache.org/committer-index.html (OpenNLP + TIKA) and http://www.hawking.org.uk (CoreNLP + Tika) and the outputs are being written in two files - ner_core_nlp_output.txt and ner_open_nlp_output.txt. The batch files can be executed directly to see the results and it doesn't require and other dependency to be downloaded separately. This has been done just for the purposes of demonstration and any of the artifacts and binaries would not be a part of the final deliverable. (Reference - https://wiki.apache.org/tika/TikaAndNER)
-
-
-
-
-
-
-
-
+Two batch files have been addded to run NER on http://people.apache.org/committer-index.html (OpenNLP + TIKA) and http://www.hawking.org.uk (CoreNLP + Tika) and the outputs are being written in two files - ner_core_nlp_output.txt and ner_open_nlp_output.txt. The batch files can be executed directly to see the results and it doesn't require and other dependency to be downloaded separately.
