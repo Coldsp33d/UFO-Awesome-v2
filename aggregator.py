@@ -6,12 +6,19 @@ import xml.etree.ElementTree as ET
 import glob
 import random
 import string
+import ast
 
 def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
     return ''.join(random.SystemRandom().choices(chars, k=size))
 
-# --- aggregate UFO Stalker data --- #
-if not os.path.exists('Data/ufo_stalker.csv'):
+
+def get_ufo_stalker_data():
+    # --- aggregate UFO Stalker data --- #
+    if os.path.exists('Data/ufo_stalker.csv'):
+        df = pd.read_csv('Data/ufo_stalker.csv', compression='gzip') 
+        df['urls'] = [ast.literal_eval(u) for u in df['urls'].tolist()]
+        return df
+        
     if not os.path.exists('Data/Resource/ufo_stalker.json'):
         data = []
         for file in os.listdir('Data/Input/ufo-stalker-json'):
@@ -69,14 +76,22 @@ if not os.path.exists('Data/ufo_stalker.csv'):
     df['shape'] = df['shape'].str.strip().str.replace(r'(?:,\s*)?N,\s*A', '').str.replace('Rectagular', 'Rectangular')
     df.loc[df['shape'].str.len().eq(0), 'shape'] = np.nan
     # load caption and object files
-    cap = pd.read_csv('Data/Resources/cap.txt', usecols=['caption', 'event_id'])
-    obj = pd.read_csv('Data/Resources/obj.txt', usecols=['label', 'event_id'])
-    # merge event data with obeject and caption data
-    df = df.merge(cap.merge(obj, on='event_id', how='outer'), on='event_id', how='left')
+
+    if os.path.exists('Data/Resources/cap.txt') and os.path.exists('Data/Resources/obj.txt'):
+        cap = pd.read_csv('Data/Resources/cap.txt', usecols=['caption', 'event_id'])
+        obj = pd.read_csv('Data/Resources/obj.txt', usecols=['label', 'event_id'])
+        # merge event data with obeject and caption data
+        df = df.merge(cap.merge(obj, on='event_id', how='outer'), on='event_id', how='left')
     # save to CSV
     df.to_csv('Data/ufo_stalker.csv', compression='gzip', index=False)
+        
+    return df
 
-if not os.path.exists('Data/ufo_british.csv'):
+
+def get_british_ufo_data():
+    if os.path.exists('Data/ufo_british.csv'):
+        return pd.read_csv('Data/ufo_british.csv', compression='gzip') 
+
     records = []
     for base_path in glob.glob('Data/Resources/ocr-output/DEFE-*'):
         root = os.path.join(base_path, 'outtxt-clean-tika')
@@ -107,23 +122,30 @@ if not os.path.exists('Data/ufo_british.csv'):
 
     df.to_csv('Data/ufo_british.csv', compression='gzip', index=False)
 
-df_list = []
-for x, y in [
-    ('UFO Stalker', 'ufo_stalker'), 
-    ('UFO British', 'ufo_british'), 
-    ('UFO Awesome', 'ufo_awesome')]:
-    print(f'Loading {x} data...\t', end='\r')
+    return df
 
-    df_list.append(pd.read_csv(f'Data/{y}.csv', compression='gzip'))
 
-    print(f'Loading {x} data...\tDONE')
+def get_ufo_awesome_data():
+    return pd.read_csv('Data/ufo_awesome.csv', compression='gzip')
 
-df = pd.concat(df_list, ignore_index=True).sort_index(axis=1)
+if __name__ == '__main__':
+    df_list = []
+    for x, y in [
+        ('UFO Stalker', get_ufo_stalker_data), 
+        ('UFO British', get_british_ufo_data), 
+        ('UFO Awesome', get_ufo_awesome_data)]:
+        print(f'Loading {x} data...\t', end='\r')
 
-print('Generating random IDs...\t', end='\r')
-df['event_id'] = [id_generator() if pd.isnull(x) else x for x in df['event_id'].tolist()]
-print('Generating random IDs...\tDONE', end='\r')
+        df_list.append(y())
 
-df.to_csv('Data/ufo_awesome_v2.csv', compression='gzip', index=False)
+        print(f'Loading {x} data...\tDONE')
+
+    df = pd.concat(df_list, ignore_index=True).sort_index(axis=1)
+
+    print('Generating random IDs...\t', end='\r')
+    df['event_id'] = [id_generator() if pd.isnull(x) else x for x in df['event_id'].tolist()]
+    print('Generating random IDs...\tDONE', end='\r')
+
+    df.to_csv('Data/ufo_awesome_v2.csv', compression='gzip', index=False)
 
 

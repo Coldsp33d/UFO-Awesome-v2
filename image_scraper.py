@@ -4,6 +4,7 @@ import os
 import pandas as pd
 import time
 import http
+from aggregator import get_ufo_stalker_data
 
 root = 'Data/Input/ufo-stalker-images'
 
@@ -45,8 +46,17 @@ def dispatch_job(df, nproc=8, sleep=0):
         for p in processes:
             p.join()
 
-if __name__ == '__main__':    
-    df = pd.read_csv('Data/ufo_stalker_image_data.csv', index_col=[0])
+if __name__ == '__main__':  
+    if not os.path.exists('Data/ufo_stalker_image_data.csv'):
+        df = get_ufo_stalker_data()[['urls', 'event_id', 'shape']]
+        df['urls'] = df['urls'].str[0]
+        df = df.dropna(subset=['urls'])
+        df['shape'] = df['shape'].str.split(r',\s*', n=1).str[0]
+
+        df.to_csv('Data/ufo_stalker_image_data.csv', index=False)
+    else: 
+        df = pd.read_csv('Data/ufo_stalker_image_data.csv')
+
     dispatch_job(df, nproc=8, sleep=0)
 
 

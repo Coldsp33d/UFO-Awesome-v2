@@ -1,6 +1,6 @@
 import requests
 
-f1 = open('Data/Resources/urls.txt', 'r')
+f1 = open('../Data/Resources/urls.txt', 'r')
 urls = f1.read().split('\n')
 
 ip = 'http://localhost:8764/inception/v4/classify/image?url='
@@ -17,7 +17,7 @@ for url in urls:
 			print(count,"------------>",myObject)
 
 			outputText = url.strip()+ ","+myObject+"\n"  #.strip('\n')
-			file=open("Data/Resources/obj.txt", "a+")
+			file=open("../Data/Resources/obj.txt", "a+")
 			file.write(outputText)
 			file.close()
 
