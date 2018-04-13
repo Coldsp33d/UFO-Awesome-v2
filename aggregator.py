@@ -2,8 +2,13 @@ import pandas as pd
 import numpy as np
 import json 
 import os 
-import xml.ElementTree as ET
+import xml.etree.ElementTree as ET
 import glob
+import random
+import string
+
+def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
+    return ''.join(random.SystemRandom().choice(chars) for _ in range(size))
 
 # --- aggregate UFO Stalker data --- #
 if not os.path.exists('Data/ufo_stalker.csv'):
@@ -68,23 +73,52 @@ if not os.path.exists('Data/ufo_stalker.csv'):
     df = df.merge(cap.merge(obj, on='event_id', how='outer'), on='event_id', how='left')
     # save to CSV
     df.to_csv('Data/ufo_stalker.csv', compression='gzip', index=False)
-else:
-    # TODO - uncomment this out later
-    # df = pd.read_csv('Data/ufo_stalker.csv', compression='gzip')
-    pass
 
+if not os.path.exists('Data/ufo_british.csv'):
+    records = []
+    for base_path in glob.glob('Data/Resources/ocr-output/DEFE-*'):
+        root = os.path.join(base_path, 'outtxt-clean-tika')
+        for file in os.listdir(root):
+            print(file)
+            try:
+                r = ET.parse(os.path.join(root, file)).getroot()
+                records.append([tag.text for tag in r[1]])
+            except ET.ParseError:
+                continue
 
-records = []
-for file in os.listdir('xml_shiva'):
-    r = ET.parse('xml_shiva/{}'.format(file)).getroot()
-    records.append([tag.text for tag in r[1]])
+    df = (pd.DataFrame(
+            records, 
+            columns=[
+                'description', 'duration', 'location', 'reported_on', 'sighted_on', 'shape'
+            ]   
+    ).apply(lambda x: x.str.title())
+     .replace('""', np.nan)
+    .dropna(
+        subset=df.columns.difference(['description']).tolist(), 
+        how='all'
+    ))
+    df['description'] = df['description'].str.strip('Split By Pdf Splitter\n').str.replace('\n', ' ')
+    df[['sighted_on', 'reported_on']] = df[['sighted_on', 'reported_on']].apply(pd.to_datetime, errors='coerce')
+    
+    m = df.sighted_on > df.reported_on
+    df.loc[m, 'sighted_on'], df.loc[m, 'reported_on'] = df.loc[m, 'reported_on'], df.loc[m, 'sighted_on']
 
-df = pd.DataFrame(
-        records, 
-        columns=[
-            'description', 'duration', 'location', 'reported_on', 'sighted_on', 'shape'
-        ]   
-).applymap(str.title).replace('""', np.nan)
+    df['event_id'] = [id_generator() for _ in range(len(df))]
 
+    df.to_csv('Data/ufo_british.csv', compression='gzip', index=False)
+
+df_list = []
+for x, y in [
+    ('UFO Stalker', 'ufo_stalker'), 
+    ('UFO British', 'ufo_british'), 
+    ('UFO Awesome', 'ufo_awesome')]:
+    print(f'Loading {x} data...\t', end='\r')
+
+    df_list.append(pd.read_csv(f'Data/{y}.csv', compression='gzip'))
+
+    print(f'Loading {x} data...\tDONE')
+
+df = pd.concat(df_list, ignore_index=True)
+df.to_csv('Data/ufo_awesome_v2.csv', compression='gzip', index=False)
 
 
