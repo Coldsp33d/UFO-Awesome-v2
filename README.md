@@ -91,32 +91,37 @@ The outputs can be found in `Data/Resources/obj.txt`.
 
 Some of the examples were as follows:
 
-eg:URL: https://www.mufoncms.com/files_jeud8334j/91154_submitter_file6__IMG2055.PNG
-0.03--->max allowable
+eg: URL: https://www.mufoncms.com/files_jeud8334j/91154_submitter_file6__IMG2055.PNG
+0.03 ---> max allowable
 0.04 does not work
+
+````
 <title>500 Internal Server Error</title>
 <h1>Internal Server Error</h1>
 <p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>
 
 INFO  Time taken 18751ms
 WARN  NO objects
+````
 
- Parameters for Captions:
+Parameters for Captions:
 Captions- number of captions returned with corresponding confidence values in descending order. The highest confidence caption is returned first.
 maxCaptionLength- maximum length defsult set to 15.
 Getting the top 3 captions:(caption word limit set to 30)
-Eg1:https://www.mufoncms.com/files_jeud8334j/91198_submitter_file5__A915CA3A9D784CD19AC565CB5398C055.png
+Eg1: https://www.mufoncms.com/files_jeud8334j/91198_submitter_file5__A915CA3A9D784CD19AC565CB5398C055.png
 
+```
 </head>
 <body><ol id="captions">    <li id="0"> a view of a street from a plane . [eng](confidence = 0.000014)</li>
     <li id="1"> a view of a city street from a plane . [eng](confidence = 0.000007)</li>
     <li id="2"> a view of a city street from a car . [eng](confidence = 0.000002)</li>
 </ol>
 </body></html>
+```
 
 Eg2: https://www.mufoncms.com/files_jeud8334j/91154_submitter_file2__IMG2007.PNG
 
-
+```
 INFO  Available = true, API Status = HTTP/1.0 200 OK
 INFO  Captions = 3, MaxCaptionLength = 30
 INFO  Recogniser = org.apache.tika.parser.captioning.tf.TensorflowRESTCaptioner
@@ -142,7 +147,7 @@ INFO  Add Caption{sentence='a man flying a kite in a park .' (eng), confidence=4
     <li id="1"> a person flying a kite in the sky . [eng](confidence = 0.000488)</li>
     <li id="2"> a man flying a kite in a park . [eng](confidence = 0.000426)</li>
 </ol>
-
+```
 
 
 
