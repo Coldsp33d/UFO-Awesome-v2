@@ -12,7 +12,11 @@ for root, _, files in os.walk('Data/Input/ufo-stalker-images'):
     		im = Image.open(path)
     		im.thumbnail(maxsize, Image.ANTIALIAS)
     		im.save(path, ext)
+
     		print('Resized {}'.format(path))
+
+    		if os.path.getsize(path) == 0:
+    			os.unlink(path)
     	except (IOError, ValueError):
     		pass
 
