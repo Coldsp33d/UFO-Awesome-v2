@@ -27,6 +27,7 @@ import org.apache.tika.parser.ParseContext;
 import org.apache.tika.parser.ner.NERecogniser;
 import org.apache.tika.parser.ner.corenlp.CoreNLPNERecogniser;
 import org.apache.tika.sax.BodyContentHandler;
+import org.apache.tika.sax.XHTMLContentHandler;
 import org.xml.sax.ContentHandler;
 import org.xml.sax.SAXException;
 
@@ -49,7 +50,7 @@ public class UFOParser extends AbstractParser {
 	private static final Pattern dateTimeDurationSightingPattern = Pattern.compile("(?m)(^A(\\.)? \\d+.+)");
 	private static final Pattern dateOfReportPattern = Pattern.compile("(?m)(^P(\\.)? .+)");
 	private static final Pattern descriptionSightingPattern = Pattern.compile("(?m)(^B(\\.)?) .+");
-	private static final Pattern durationSightingPattern = Pattern.compile("(\\b(\\d{1,2}) (?:MIN(?:S)?|MIN(?:UTES)?|MIND|HOUR(?:S|SEC(?:S)|SECOND(?:S)|DAY(?:S))))");
+	public static final Pattern durationSightingPattern = Pattern.compile("(\\b(\\d{1,2}) (?:MIN(?:S)?|MIN(?:UTES)?|MIND|HOUR(?:S|SEC(?:S)|SECOND(?:S)|DAY(?:S))))");
 	private static final String[] shapes = {"BLIMP","BOOMERANG","BULLET","CHEVRON","CIGAR","CIRCLE","CONE","CROSS","CYLINDER","DIAMOND","DISC","DUMBBELL","EGG","FIREBALL","FLASH","MISSILE","OTHER","OVAL","RECTANGULAR","SATURN-LIKE","SPHERE","SQUARE","STAR-LIKE","TEARDROP","TRIANGLE","UNKNOWN","ROUND","BRIGHT","WHITISH","SILVER","LIGHT","RED", "V SHAPED", "GREEN", "RED", "WHITE", "STAR", "HELICOPTER", "REEPPISH", "PINK", "ARC","BUCKET","ORANGE"};
 	private static final Set<String> shapesSet = new HashSet<>(Arrays.asList(shapes));
 	private static final NERecogniser recogniser = new CoreNLPNERecogniser();
@@ -69,8 +70,19 @@ public class UFOParser extends AbstractParser {
 		 * XHTMLContentHandler xhtml = new XHTMLContentHandler(handler,
 		 * metadata); xhtml.startDocument(); xhtml.endDocument();
 		 */
+		XHTMLContentHandler xhtml = new XHTMLContentHandler(handler, metadata);
+        xhtml.startDocument();
+        //xhtml.startElement("p");
+        xhtml.characters("12-NOV-1994");
+        //xhtml.endElement("p");
+        /*
+        xhtml.element("reporting-date", "20-NOV-1994");
+        xhtml.element("location", "\"Houston, Texas, Boston\"");
+        */
+        xhtml.endDocument();
 	}
 
+	
 	public static List<File> getFiles(@NotNull String idn, @NotNull boolean recursive) {
 		File dirI = new File(idn);
 		List<File> files = new ArrayList<>();
@@ -104,7 +116,7 @@ public class UFOParser extends AbstractParser {
 		} else
 			return null;
 	}
-
+	
 	public static void main(String[] args) {
 		List<File> files = getFiles("src//main//resources//NewData//172_Split//out2", false);
 		List<String> type1files = new ArrayList<>();
@@ -125,8 +137,8 @@ public class UFOParser extends AbstractParser {
 					} else if (data.startsWith("CLASSIFIED")) {
 						type2files.add(file.getName());
 
-						//System.out.println("**************");
-						//System.out.println(file.getName());
+						System.out.println("**************");
+						System.out.println(file.getName());
 
 						String[] globalDate = new String[2];
 						Matcher monthyear = monthYearPattern.matcher(data);
@@ -160,13 +172,13 @@ public class UFOParser extends AbstractParser {
 		//System.out.println(type2files.size());
 	}
 
-	private static void parseShape(String data, UFO ufo) {
+	public static void parseShape(String data, UFO ufo) {
 		Set<String> dataSet = new HashSet<>(Arrays.asList(data.split(" ")));
 		dataSet.retainAll(shapesSet);
 		ufo.setShape("\"" + StringUtils.join(dataSet, ',') + "\"" );
 	}
 	
-	private static void parseLocation(String data, UFO ufo) {
+	public static void parseLocation(String data, UFO ufo) {
 		Map<String, Set<String>> keys = recogniser.recognise(data);
 		Set<String> locations = keys.get("LOCATION");
 		if (locations != null && locations.size() > 0)
