@@ -18,7 +18,6 @@ if not os.path.exists('Data/ufo_stalker.csv'):
             with open('Data/Input/ufo-stalker-json/{}'.format(file), 'r') as f:
                 data.extend(json.load(f)['content'])
 
-
         with open('Data/Resources/ufo_stalker.json', 'w') as f:
             for d in data:                           
                 f.write(json.dumps(d) + '\n') 
@@ -60,6 +59,9 @@ if not os.path.exists('Data/ufo_stalker.csv'):
     df['urls'] = [
         [j for j in i if j.lower().rsplit('.', 1)[-1] in valid_formats] if i else [] for i in df.urls
     ]
+    # country
+    df['country'] = df['country'].replace({'US' : 'United States', 'UK' : 'United Kingdom', 'BR' : 'Brazil'})
+    df.loc[df['country'].str.len().eq(2), 'country'] = np.nan 
     # convert epoch time to datetime
     df['sighted_on'] = pd.to_datetime(df['sighted_on'], errors='coerce', unit='ms')
     df['reported_on'] = pd.to_datetime(df['reported_on'], errors='coerce', unit='ms')
@@ -116,7 +118,7 @@ for x, y in [
 
     print(f'Loading {x} data...\tDONE')
 
-df = pd.concat(df_list, ignore_index=True)
+df = pd.concat(df_list, ignore_index=True).sort_index(axis=1)
 
 print('Generating random IDs...\t', end='\r')
 df['event_id'] = [id_generator() if pd.isnull(x) else x for x in df['event_id'].tolist()]
