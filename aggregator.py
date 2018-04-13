@@ -8,7 +8,7 @@ import random
 import string
 
 def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
-    return ''.join(random.SystemRandom().choice(chars) for _ in range(size))
+    return ''.join(random.SystemRandom().choices(chars, k=size))
 
 # --- aggregate UFO Stalker data --- #
 if not os.path.exists('Data/ufo_stalker.csv'):
@@ -79,7 +79,6 @@ if not os.path.exists('Data/ufo_british.csv'):
     for base_path in glob.glob('Data/Resources/ocr-output/DEFE-*'):
         root = os.path.join(base_path, 'outtxt-clean-tika')
         for file in os.listdir(root):
-            print(file)
             try:
                 r = ET.parse(os.path.join(root, file)).getroot()
                 records.append([tag.text for tag in r[1]])
@@ -93,17 +92,16 @@ if not os.path.exists('Data/ufo_british.csv'):
             ]   
     ).apply(lambda x: x.str.title())
      .replace('""', np.nan)
-    .dropna(
+    )
+    df = df.dropna(
         subset=df.columns.difference(['description']).tolist(), 
         how='all'
-    ))
+    )
     df['description'] = df['description'].str.strip('Split By Pdf Splitter\n').str.replace('\n', ' ')
     df[['sighted_on', 'reported_on']] = df[['sighted_on', 'reported_on']].apply(pd.to_datetime, errors='coerce')
     
     m = df.sighted_on > df.reported_on
     df.loc[m, 'sighted_on'], df.loc[m, 'reported_on'] = df.loc[m, 'reported_on'], df.loc[m, 'sighted_on']
-
-    df['event_id'] = [id_generator() for _ in range(len(df))]
 
     df.to_csv('Data/ufo_british.csv', compression='gzip', index=False)
 
@@ -119,6 +117,11 @@ for x, y in [
     print(f'Loading {x} data...\tDONE')
 
 df = pd.concat(df_list, ignore_index=True)
+
+print('Generating random IDs...\t', end='\r')
+df['event_id'] = [id_generator() if pd.isnull(x) else x for x in df['event_id'].tolist()]
+print('Generating random IDs...\tDONE', end='\r')
+
 df.to_csv('Data/ufo_awesome_v2.csv', compression='gzip', index=False)
 
 
