@@ -1,0 +1,7 @@
+numpy==1.14.0
+pandas==0.22.0
+autocorrect==0.3.0
+natsort==5.1.0
+requests==2.18.4
+selenium==3.9.0
+Pillow==5.1.0
