@@ -89,6 +89,62 @@ To label objects in images, run
 
 The outputs can be found in `Data/Resources/obj.txt`.
 
+Some of the examples were as follows:
+
+eg:URL: https://www.mufoncms.com/files_jeud8334j/91154_submitter_file6__IMG2055.PNG
+0.03--->max allowable
+0.04 does not work
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>
+
+INFO  Time taken 18751ms
+WARN  NO objects
+
+ Parameters for Captions:
+Captions- number of captions returned with corresponding confidence values in descending order. The highest confidence caption is returned first.
+maxCaptionLength- maximum length defsult set to 15.
+Getting the top 3 captions:(caption word limit set to 30)
+Eg1:https://www.mufoncms.com/files_jeud8334j/91198_submitter_file5__A915CA3A9D784CD19AC565CB5398C055.png
+
+</head>
+<body><ol id="captions">    <li id="0"> a view of a street from a plane . [eng](confidence = 0.000014)</li>
+    <li id="1"> a view of a city street from a plane . [eng](confidence = 0.000007)</li>
+    <li id="2"> a view of a city street from a car . [eng](confidence = 0.000002)</li>
+</ol>
+</body></html>
+
+Eg2: https://www.mufoncms.com/files_jeud8334j/91154_submitter_file2__IMG2007.PNG
+
+
+INFO  Available = true, API Status = HTTP/1.0 200 OK
+INFO  Captions = 3, MaxCaptionLength = 30
+INFO  Recogniser = org.apache.tika.parser.captioning.tf.TensorflowRESTCaptioner
+INFO  Recogniser Available = true
+INFO  Time taken 14419ms
+INFO  Add Caption{sentence='a person flying a kite in a field .' (eng), confidence=4.968589056338163E-4}
+INFO  Add Caption{sentence='a person flying a kite in the sky .' (eng), confidence=4.8810816172524497E-4}
+INFO  Add Caption{sentence='a man flying a kite in a park .' (eng), confidence=4.261081032342596E-4}
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="org.apache.tika.parser.recognition.object.rec.impl" content="org.apache.tika.parser.captioning.tf.TensorflowRESTCaptioner"/>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.CompositeParser"/>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.recognition.ObjectRecognitionParser"/>
+<meta name="resourceName" content="91154_submitter_file2__IMG2007.PNG"/>
+<meta name="Content-Length" content="139385"/>
+<meta name="CAPTION" content="a person flying a kite in a field . (0.00050)"/>
+<meta name="CAPTION" content="a person flying a kite in the sky . (0.00049)"/>
+<meta name="CAPTION" content="a man flying a kite in a park . (0.00043)"/>
+<meta name="Content-Type" content="image/jpeg"/>
+<title/>
+</head>
+<body><ol id="captions">    <li id="0"> a person flying a kite in a field . [eng](confidence = 0.000497)</li>
+    <li id="1"> a person flying a kite in the sky . [eng](confidence = 0.000488)</li>
+    <li id="2"> a man flying a kite in a park . [eng](confidence = 0.000426)</li>
+</ol>
+
+
+
 
 ## Part 3 - Dataset Joining
 
