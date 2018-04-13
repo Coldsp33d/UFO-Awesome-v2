@@ -98,7 +98,7 @@ def process(sent_list):
 
     return ftype, sent_list_clean
 
-if __name__ == "__main__":
+def main():
     for base_path in glob.glob('Data/Resources/ocr-output/DEFE-*'):
         src_path = os.path.join(base_path, 'outtxt')
         dst_path = os.path.join(base_path, 'outtxt-clean')
@@ -133,4 +133,5 @@ if __name__ == "__main__":
                 for sent in sent_list_clean:
                     f.write(sent + '\n')
 
-
+if __name__ == "__main__":
+    main()
