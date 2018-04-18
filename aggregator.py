@@ -53,8 +53,8 @@ def get_ufo_stalker_data():
         'detailedDescription' 
                     : 'description', 
         'id'        : 'event_id',
-        'submitted' : 'sighted_on',
-        'occurred'  : 'reported_on'
+        'submitted' : 'sighted_at',
+        'occurred'  : 'reported_at'
     }
 
     df = (pd.read_json('Data/Resources/ufo_stalker.json', lines=True)
@@ -70,8 +70,8 @@ def get_ufo_stalker_data():
     df['country'] = df['country'].replace({'US' : 'United States', 'UK' : 'United Kingdom', 'BR' : 'Brazil'})
     df.loc[df['country'].str.len().eq(2), 'country'] = np.nan 
     # convert epoch time to datetime
-    df['sighted_on'] = pd.to_datetime(df['sighted_on'], errors='coerce', unit='ms')
-    df['reported_on'] = pd.to_datetime(df['reported_on'], errors='coerce', unit='ms')
+    df['sighted_at'] = pd.to_datetime(df['sighted_at'], errors='coerce', unit='ms')
+    df['reported_at'] = pd.to_datetime(df['reported_at'], errors='coerce', unit='ms')
     # fix shape column
     df['shape'] = df['shape'].str.strip().str.replace(r'(?:,\s*)?N,\s*A', '').str.replace('Rectagular', 'Rectangular')
     df.loc[df['shape'].str.len().eq(0), 'shape'] = np.nan
@@ -105,7 +105,7 @@ def get_british_ufo_data():
     df = (pd.DataFrame(
             records, 
             columns=[
-                'description', 'duration', 'location', 'reported_on', 'sighted_on', 'shape'
+                'description', 'duration', 'location', 'reported_at', 'sighted_at', 'shape'
             ]   
     ).apply(lambda x: x.str.title())
      .replace('""', np.nan)
@@ -115,10 +115,10 @@ def get_british_ufo_data():
         how='all'
     )
     df['description'] = df['description'].str.strip('Split By Pdf Splitter\n').str.replace('\n', ' ')
-    df[['sighted_on', 'reported_on']] = df[['sighted_on', 'reported_on']].apply(pd.to_datetime, errors='coerce')
+    df[['sighted_at', 'reported_at']] = df[['sighted_at', 'reported_at']].apply(pd.to_datetime, errors='coerce')
     
-    m = df.sighted_on > df.reported_on
-    df.loc[m, 'sighted_on'], df.loc[m, 'reported_on'] = df.loc[m, 'reported_on'], df.loc[m, 'sighted_on']
+    m = df.sighted_at > df.reported_at
+    df.loc[m, 'sighted_at'], df.loc[m, 'reported_at'] = df.loc[m, 'reported_at'], df.loc[m, 'sighted_at']
 
     df.to_csv('Data/ufo_british.csv', compression='gzip', index=False)
 
